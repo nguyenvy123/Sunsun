@@ -1,0 +1,557 @@
+{
+    "Misc": {
+        "startTime": 1625763601,
+        "endTime": 1626973199,
+        "openTime": 1625763601,
+        "ticketConversation": 22800000,
+        "ticketMode_1": 1,
+        "ticketMode_10": 10,
+        "rateWinGold": 0.05,
+        "rateLoseGold": 0.01,
+        "directPayingPromotionDay": "13;14",
+        "directPayingPromotionBonus": 1,
+        "periodGetFreeTicket": 86400,
+        "detectOldUsers": 1,
+        "maxRewardValue": 14,
+        "compensationGoldByIdxFragments": "5000000;10000000;15000000;0",
+        "numberOfMinOfFragmentCanExchange": 1,
+        "idxFragmentsCanExchange": "0;1;2",
+        "minTotalGameCanJoin": 0
+    },
+    "TicketFromDirectPaying": [
+        {
+            "ticket": 7,
+            "cost": 5000
+        },
+        {
+            "ticket": 15,
+            "cost": 10000
+        },
+        {
+            "ticket": 31,
+            "cost": 20000
+        },
+        {
+            "ticket": 79,
+            "cost": 50000
+        },
+        {
+            "ticket": 160,
+            "cost": 100000
+        }
+    ],
+    "TicketFromCommission": {
+        "1": {
+            "requiredPoint": 5000000,
+            "ticket": 1,
+            "nextLevel": 2
+        },
+        "2": {
+            "requiredPoint": 7500000,
+            "ticket": 1,
+            "nextLevel": 3
+        },
+        "3": {
+            "requiredPoint": 10000000,
+            "ticket": 1,
+            "nextLevel": 4
+        },
+        "4": {
+            "requiredPoint": 12500000,
+            "ticket": 1,
+            "nextLevel": 5
+        },
+        "5": {
+            "requiredPoint": 15000000,
+            "ticket": 1,
+            "nextLevel": 6
+        },
+        "6": {
+            "requiredPoint": 17500000,
+            "ticket": 1,
+            "nextLevel": 7
+        },
+        "7": {
+            "requiredPoint": 20000000,
+            "ticket": 1,
+            "nextLevel": 8
+        },
+        "8": {
+            "requiredPoint": 22500000,
+            "ticket": 1,
+            "nextLevel": 9
+        },
+        "9": {
+            "requiredPoint": 25000000,
+            "ticket": 1,
+            "nextLevel": 10
+        },
+        "10": {
+            "requiredPoint": 27500000,
+            "ticket": 1,
+            "nextLevel": 11
+        },
+        "11": {
+            "requiredPoint": 30000000,
+            "ticket": 1,
+            "nextLevel": 12
+        },
+        "12": {
+            "requiredPoint": 32500000,
+            "ticket": 1,
+            "nextLevel": 13
+        },
+        "13": {
+            "requiredPoint": 35000000,
+            "ticket": 1,
+            "nextLevel": 14
+        },
+        "14": {
+            "requiredPoint": 37500000,
+            "ticket": 1,
+            "nextLevel": 15
+        },
+        "15": {
+            "requiredPoint": 40000000,
+            "ticket": 1,
+            "nextLevel": 16
+        },
+        "16": {
+            "requiredPoint": 42500000,
+            "ticket": 1,
+            "nextLevel": 17
+        },
+        "17": {
+            "requiredPoint": 45000000,
+            "ticket": 1,
+            "nextLevel": 18
+        },
+        "18": {
+            "requiredPoint": 47500000,
+            "ticket": 1,
+            "nextLevel": 19
+        },
+        "19": {
+            "requiredPoint": 50000000,
+            "ticket": 1,
+            "nextLevel": 20
+        },
+        "20": {
+            "requiredPoint": 75000000,
+            "ticket": 1,
+            "nextLevel": 21
+        },
+        "21": {
+            "requiredPoint": 100000000,
+            "ticket": 1,
+            "nextLevel": 22
+        },
+        "22": {
+            "requiredPoint": 125000000,
+            "ticket": 1,
+            "nextLevel": 23
+        },
+        "23": {
+            "requiredPoint": 150000000,
+            "ticket": 1,
+            "nextLevel": 24
+        },
+        "24": {
+            "requiredPoint": 175000000,
+            "ticket": 1,
+            "nextLevel": 25
+        },
+        "25": {
+            "requiredPoint": 200000000,
+            "ticket": 1,
+            "nextLevel": 26
+        },
+        "26": {
+            "requiredPoint": 225000000,
+            "ticket": 1,
+            "nextLevel": 27
+        },
+        "27": {
+            "requiredPoint": 250000000,
+            "ticket": 1,
+            "nextLevel": 28
+        },
+        "28": {
+            "requiredPoint": 275000000,
+            "ticket": 1,
+            "nextLevel": 29
+        },
+        "29": {
+            "requiredPoint": 300000000,
+            "ticket": 1,
+            "nextLevel": 30
+        },
+        "30": {
+            "requiredPoint": 350000000,
+            "ticket": 1,
+            "nextLevel": 31
+        },
+        "31": {
+            "requiredPoint": 400000000,
+            "ticket": 1,
+            "nextLevel": 32
+        },
+        "32": {
+            "requiredPoint": 450000000,
+            "ticket": 1,
+            "nextLevel": 33
+        },
+        "33": {
+            "requiredPoint": 500000000,
+            "ticket": 1,
+            "nextLevel": 34
+        },
+        "34": {
+            "requiredPoint": 550000000,
+            "ticket": 1,
+            "nextLevel": 35
+        },
+        "35": {
+            "requiredPoint": 600000000,
+            "ticket": 1,
+            "nextLevel": 36
+        },
+        "36": {
+            "requiredPoint": 650000000,
+            "ticket": 1,
+            "nextLevel": 37
+        },
+        "37": {
+            "requiredPoint": 700000000,
+            "ticket": 1,
+            "nextLevel": 38
+        },
+        "38": {
+            "requiredPoint": 750000000,
+            "ticket": 1,
+            "nextLevel": 39
+        },
+        "39": {
+            "requiredPoint": 800000000,
+            "ticket": 1,
+            "nextLevel": 40
+        },
+        "40": {
+            "requiredPoint": 900000000,
+            "ticket": 1,
+            "nextLevel": 41
+        },
+        "41": {
+            "requiredPoint": 1000000000,
+            "ticket": 1,
+            "nextLevel": 42
+        },
+        "42": {
+            "requiredPoint": 1100000000,
+            "ticket": 1,
+            "nextLevel": 43
+        },
+        "43": {
+            "requiredPoint": 1200000000,
+            "ticket": 1,
+            "nextLevel": 44
+        },
+        "44": {
+            "requiredPoint": 1300000000,
+            "ticket": 1,
+            "nextLevel": 45
+        },
+        "45": {
+            "requiredPoint": 1400000000,
+            "ticket": 1,
+            "nextLevel": 46
+        },
+        "46": {
+            "requiredPoint": 1500000000,
+            "ticket": 1,
+            "nextLevel": 47
+        },
+        "47": {
+            "requiredPoint": 1600000000,
+            "ticket": 1,
+            "nextLevel": 48
+        },
+        "48": {
+            "requiredPoint": 1700000000,
+            "ticket": 1,
+            "nextLevel": 49
+        },
+        "49": {
+            "requiredPoint": 1800000000,
+            "ticket": 1,
+            "nextLevel": 50
+        },
+        "50": {
+            "requiredPoint": 2000000000,
+            "ticket": 1,
+            "nextLevel": 41
+        }
+    },
+    "FragmentData": {
+        "1": {
+            "item": "TICKET",
+            "quantity": 1,
+            "typeReward": 3,
+            "hashFactor": 0,
+            "requiredInfo": 0,
+            "baseWeight": 0,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "2": {
+            "item": "GOLD",
+            "quantity": 4000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 800,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "3": {
+            "item": "GOLD",
+            "quantity": 6000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 1000,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "4": {
+            "item": "GOLD",
+            "quantity": 10000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 800,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "5": {
+            "item": "GOLD",
+            "quantity": 20000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 800,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "6": {
+            "item": "GOLD",
+            "quantity": 30000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 100,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "7": {
+            "item": "GOLD",
+            "quantity": 60000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 10,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "8": {
+            "item": "GOLD",
+            "quantity": 100000000,
+            "typeReward": 0,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 5,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1
+            }
+        },
+        "9": {
+            "item": "GP100M_FRAG",
+            "quantity": 100000000,
+            "typeReward": 1,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 100,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1,
+                "constrain": [
+                    "0:1:0:10"
+                ]
+            }
+        },
+        "10": {
+            "item": "GP1B_FRAG",
+            "quantity": 1000000000,
+            "typeReward": 1,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 50,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1,
+                "constrain": [
+                    "49:1:0:10"
+                ]
+            }
+        },
+        "11": {
+            "item": "GP10B_FRAG",
+            "quantity": 10000000000,
+            "typeReward": 1,
+            "hashFactor": 1000,
+            "requiredInfo": 0,
+            "baseWeight": 5,
+            "valueRate": 0,
+            "finalFragmentRule": {
+                "limitPlayer": -1,
+                "limitEvent": -1,
+                "constrain": [
+                    "500:1:0:10"
+                ]
+            }
+        },
+        "12": {
+            "item": "Pulsa Voucher 50k",
+            "quantity": 1,
+            "typeReward": 2,
+            "hashFactor": 1000,
+            "requiredInfo": 1,
+            "baseWeight": 10,
+            "valueRate": 1,
+            "finalFragmentRule": {
+                "limitPlayer": 1,
+                "limitEvent": 14,
+                "constrain": [
+                    "150:1:10:10",
+                    "150:2:10:10",
+                    "150:3:10:10",
+                    "150:4:10:10",
+                    "150:5:10:10",
+                    "150:6:10:10",
+                    "150:7:10:10",
+                    "150:8:10:10",
+                    "150:9:10:10",
+                    "150:10:10:10",
+                    "150:11:10:10",
+                    "150:12:9:10",
+                    "150:13:10:10",
+                    "150:14:10:10"
+                ]
+            }
+        },
+        "13": {
+            "item": "Pulsa Voucher 100k",
+            "quantity": 1,
+            "typeReward": 2,
+            "hashFactor": 1000,
+            "requiredInfo": 1,
+            "baseWeight": 10,
+            "valueRate": 2,
+            "finalFragmentRule": {
+                "limitPlayer": 1,
+                "limitEvent": 14,
+                "constrain": [
+                    "300:1:10:10",
+                    "300:2:10:10",
+                    "300:3:10:10",
+                    "300:4:10:10",
+                    "300:5:10:10",
+                    "300:6:10:10",
+                    "300:7:10:10",
+                    "300:8:10:10",
+                    "300:9:10:10",
+                    "300:10:10:10",
+                    "300:11:10:10",
+                    "300:12:9:10",
+                    "300:13:10:10",
+                    "300:14:10:10"
+                ]
+            }
+        },
+        "14": {
+            "item": "XIAOMI MI TWS \bEarphones 2",
+            "quantity": 1,
+            "typeReward": 2,
+            "hashFactor": 1000,
+            "requiredInfo": 1,
+            "baseWeight": 10,
+            "valueRate": 3,
+            "finalFragmentRule": {
+                "limitPlayer": 1,
+                "limitEvent": 2,
+                "constrain": [
+                    "1200:2:11:10",
+                    "1500:9:11:10"
+                ]
+            }
+        },
+        "15": {
+            "item": "Oxone Coffee Maker Standard Bl",
+            "quantity": 1,
+            "typeReward": 2,
+            "hashFactor": 1000,
+            "requiredInfo": 1,
+            "baseWeight": 10,
+            "valueRate": 4,
+            "finalFragmentRule": {
+                "limitPlayer": 1,
+                "limitEvent": 2,
+                "constrain": [
+                    "2500:4:11:10",
+                    "3000:10:11:10"
+                ]
+            }
+        },
+        "16": {
+            "item": "ASUS VivoBook 14 M415DA 8GB",
+            "quantity": 1,
+            "typeReward": 2,
+            "hashFactor": 1000,
+            "requiredInfo": 1,
+            "baseWeight": 10,
+            "valueRate": 5,
+            "finalFragmentRule": {
+                "limitPlayer": 1,
+                "limitEvent": 1,
+                "constrain": [
+                    "20000:12:12:10"
+                ]
+            }
+        }
+    }
+}

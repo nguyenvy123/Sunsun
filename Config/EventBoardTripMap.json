@@ -1,0 +1,2820 @@
+{
+    "1": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 4,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 4,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1000000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 2500000
+        }
+    ],
+    "2": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 3500000
+        }
+    ],
+    "3": [
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1250000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 5000000
+        }
+    ],
+    "4": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 7500000
+        }
+    ],
+    "5": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 10000000
+        }
+    ],
+    "6": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1250000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 12500000
+        }
+    ],
+    "7": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 15000000
+        }
+    ],
+    "8": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 17500000
+        }
+    ],
+    "9": [
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1750000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2250000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 3000000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 3,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 1500000
+        },
+        {
+            "type": 1,
+            "quantity": 2500000
+        },
+        {
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 22500000
+        }
+    ]
+}

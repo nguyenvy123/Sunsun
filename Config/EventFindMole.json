@@ -1,0 +1,602 @@
+{
+    "Misc": {
+        "startTime": 1624986000,
+        "finishTime": 1625590799,
+        "limitAppearOfferNormal": 30,
+        "limitAppearOfferSale": 30,
+        "maxTicket": 10,
+        "freeTicket": 3,
+        "meterTicket": 1,
+        "minGamesToPlay": 2,
+        "minTimeToPlay": 1800,
+        "maxCabin": 14
+    },
+    "Cycles": [
+        {
+            "barMeterPoint": 1000000,
+            "requiredGold": 0,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 100000,
+            "goldRatio": 1,
+            "goldRatioBoard": 1,
+            "goldFinalReward": 30000000
+        },
+        {
+            "barMeterPoint": 10000000,
+            "requiredGold": 30000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 500000,
+            "goldRatio": 4,
+            "goldRatioBoard": 4,
+            "goldFinalReward": 300000000
+        },
+        {
+            "barMeterPoint": 180000000,
+            "requiredGold": 300000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 5000000,
+            "goldRatio": 20,
+            "goldRatioBoard": 20,
+            "goldFinalReward": 3000000000
+        },
+        {
+            "barMeterPoint": 1800000000,
+            "requiredGold": 3000000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 50000000,
+            "goldRatio": 80,
+            "goldRatioBoard": 80,
+            "goldFinalReward": 6000000000
+        }
+    ],
+    "Offers": [
+        {
+            "cost": 10000,
+            "cycles": 0,
+            "start": 0,
+            "end": 4,
+            "delay": 1,
+            "turns": 7,
+            "gold": 300000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 1,
+            "start": 0,
+            "end": 4,
+            "delay": 1,
+            "turns": 7,
+            "gold": 500000000,
+            "vPoint": 300
+        },
+        {
+            "cost": 50000,
+            "cycles": 2,
+            "start": 0,
+            "end": 4,
+            "delay": 1,
+            "turns": 7,
+            "gold": 1000000000,
+            "vPoint": 500
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 0,
+            "end": 4,
+            "delay": 1,
+            "turns": 7,
+            "gold": 2500000000,
+            "vPoint": 1000
+        },
+        {
+            "cost": 10000,
+            "cycles": 0,
+            "start": 5,
+            "end": 6,
+            "delay": 1,
+            "turns": 14,
+            "gold": 300000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 1,
+            "start": 5,
+            "end": 6,
+            "delay": 1,
+            "turns": 14,
+            "gold": 500000000,
+            "vPoint": 300
+        },
+        {
+            "cost": 50000,
+            "cycles": 2,
+            "start": 5,
+            "end": 6,
+            "delay": 1,
+            "turns": 14,
+            "gold": 1000000000,
+            "vPoint": 500
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 5,
+            "end": 6,
+            "delay": 1,
+            "turns": 14,
+            "gold": 2500000000,
+            "vPoint": 1000
+        }
+    ],
+    "Cabins": [
+        {
+            "goldReward": 0,
+            "numDoors": 3,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 4,
+            "rewardDoor": [
+                {
+                    "weight": "0;100;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 1200000
+                },
+                {
+                    "weight": "0;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "0;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": 1320000
+                },
+                {
+                    "weight": "100;0;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 4320000,
+            "numDoors": 3,
+            "rewardDoor": [
+                {
+                    "weight": "0;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;0;0",
+                    "value": 99
+                },
+                {
+                    "weight": "0;100;0",
+                    "value": 1320000
+                },
+                {
+                    "weight": "0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "0;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 4,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 103.95
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 1440000
+                },
+                {
+                    "weight": "100;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;100;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;0;100;100;0",
+                    "value": 114.345
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": 1440000
+                },
+                {
+                    "weight": "0;100;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "100;100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 6912000,
+            "numDoors": 4,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 125.7795
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 1440000
+                },
+                {
+                    "weight": "0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;100;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;0;100;100;0",
+                    "value": 138.35745
+                },
+                {
+                    "weight": "100;0;100;100;0",
+                    "value": 1440000
+                },
+                {
+                    "weight": "100;0;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 4,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 152.193195
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": 1560000
+                },
+                {
+                    "weight": "0;100;0;0;",
+                    "value": 1.2
+                },
+                {
+                    "weight": "100;100;100;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 9360000,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": 167.4125145
+                },
+                {
+                    "weight": "0;100;100;100;0",
+                    "value": 1560000
+                },
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "200;200;200;200;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;0;100;100;0",
+                    "value": 184.15376595
+                },
+                {
+                    "weight": "100;0;100;100;0",
+                    "value": 1560000
+                },
+                {
+                    "weight": "100;0;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "200;200;200;200;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;100;100;0;0",
+                    "value": 202.569142545
+                },
+                {
+                    "weight": "100;100;100;0;0",
+                    "value": 1560000
+                },
+                {
+                    "weight": "0;100;0;0;0",
+                    "value": 1.2
+                },
+                {
+                    "weight": "300;300;300;300;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 11700000,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "100;100;100;0;0",
+                    "value": 222.8260567995
+                },
+                {
+                    "weight": "100;100;100;0;0",
+                    "value": 1680000
+                },
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "400;400;400;400;0",
+                    "value": -1
+                }
+            ]
+        },
+        {
+            "goldReward": 0,
+            "numDoors": 5,
+            "rewardDoor": [
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": -1
+                },
+                {
+                    "weight": "0;0;100;0;0",
+                    "value": 245.10866247945
+                },
+                {
+                    "weight": "100;0;0;0;0",
+                    "value": 1680000
+                },
+                {
+                    "weight": "0;0;0;0;0",
+                    "value": 0
+                },
+                {
+                    "weight": "400;400;400;400;0",
+                    "value": -1
+                }
+            ]
+        }
+    ],
+    "BonusPurchase": {
+        "SMS_ID_1": {
+            "ticket": 0
+        },
+        "SMS_ID_2": {
+            "ticket": 0
+        },
+        "SMS_ID_3": {
+            "ticket": 0
+        },
+        "SMS_ID_4": {
+            "ticket": 0
+        },
+        "SMS_ID_5": {
+            "ticket": 0
+        },
+        "SMS_ID_6": {
+            "ticket": 1
+        },
+        "SMS_ID_7": {
+            "ticket": 0
+        },
+        "SMS_ID_8": {
+            "ticket": 3
+        },
+        "SMS_ID_9": {
+            "ticket": 0
+        },
+        "SMS_ID_10": {
+            "ticket": 0
+        },
+        "SMS_ID_11": {
+            "ticket": 6
+        },
+        "SMS_ID_12": {
+            "ticket": 0
+        },
+        "SMS_ID_13": {
+            "ticket": 0
+        },
+        "susun_1a": {
+            "ticket": 0
+        },
+        "susun_2a": {
+            "ticket": 1
+        },
+        "susun_3a": {
+            "ticket": 2
+        },
+        "susun_5a": {
+            "ticket": 3
+        },
+        "susun_10a": {
+            "ticket": 6
+        },
+        "susun_50a": {
+            "ticket": 30
+        },
+        "WL_ID_1": {
+            "ticket": 0
+        },
+        "WL_ID_2": {
+            "ticket": 0
+        },
+        "WL_ID_3": {
+            "ticket": 0
+        },
+        "WL_ID_4": {
+            "ticket": 0
+        },
+        "WL_ID_5": {
+            "ticket": 0
+        },
+        "WL_ID_6": {
+            "ticket": 1
+        },
+        "WL_ID_7": {
+            "ticket": 0
+        },
+        "WL_ID_8": {
+            "ticket": 3
+        },
+        "WL_ID_9": {
+            "ticket": 0
+        },
+        "WL_ID_10": {
+            "ticket": 0
+        },
+        "WL_ID_11": {
+            "ticket": 6
+        },
+        "WL_ID_12": {
+            "ticket": 0
+        },
+        "WL_ID_13": {
+            "ticket": 0
+        }
+    }
+}

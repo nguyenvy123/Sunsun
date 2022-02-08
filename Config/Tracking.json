@@ -1,0 +1,47 @@
+{
+    "ByAppName": {
+        "com.zingplay.ptint": {
+            "androidPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArT+YYS\/axEZP2S4UhOvptUTnD78kCeGUbnwmFyS7jczzpT1Rp3xvm4psXPv89sswVCZfuTHGvWRkvToE7iBZTLRM3pDtI4Y2ErGzdwTd\/lzOZCN10uMKjKdsbrOLy+Nrx\/t\/qB\/qkn2jhVxoT+E03kSlnXZaF32LdTeWiGy3ONwXqEbM8\/JlXtlSY8uVOLiGGps9h3\/XrVMw\/MmnoX6gNgOhmTATp8moEimcJDEruWqsCc1S8N1C9PBH4o0+kZKKiR4+YF8Y7SB7XhqGAASnTWRRPQqL1srKdIBp0ks+OxCrFQc1vH00b7UvkEJfcEbJK4rNwuLoXJXhNll47uuJJwIDAQAB"
+        },
+        "com.zingplay.test": {
+            "androidPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhalUHa5iX6L6mNVO7jyFuX50uFEGNLKSSMFvevADmpXsVEikEd5cf8GYg4NxIJjBHRWYVp5CVFM19DCXt3cebPWXuJ05aeR4+SRT7ANoBzpqZTCzj0B5IS3MVekDKPVeovkEe12A+RXjZ7MD7Q6ZEKHBSJi6on3snM1SF+b9qeZ8nLYUYmDEvY8I\/nzNLdwNVO9+RV63HjJume4xFzrlWYalNZlr2a3sYv1mjb57xAOhgzGocD6VQdQbg00uuWJlko\/PjTl8RsuCNNQYVK5tqKupZWBPWR2Q5QLDHl7Csk5h++XZF2ju6yb0rYK1kQZD0X58uKUj1XLM20nUwNbfbQIDAQAB"
+        },
+        "com.zingplay.susun": {
+            "androidPublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsnO6Bjk7slthPTJtqRIBziizQ9u1QZCSDjfGO8PRhLXxW4IM58ESngfbZWFTUlRh4dJUthLh2dDda1xFqtNw8dNoyyQvoWA+GWUqI0ga3ED1PTZbz7osHMkjzFkWMlytMLzcrInw0W8A292alEbvHjvpEgLc2Smo5FX8BCIlWOOQ7o9i///cPu0k9VhuIYYNSpVVSf12wlTzKxIkJTH30ovJF46VEtSNsp7VhMoSjqJuv1fz5Y8jFYUtDt5GeDbzZ5n3E+dsiIXwTAAWSvbR7CcBxYcsHtBVpXULnoJA34K2KR7G1q9kuQYL3FJSYCtmtTm2J9ikUQSN195VMaYnZwIDAQAB"
+        }
+    },
+    "ByLocate": {
+        "international": {
+            "appleCashType": "APPWallet",
+            "googleCashType": "GGWallet"
+        },
+        "vi": {
+            "appleCashType": "APPVn",
+            "googleCashType": "GGVn"
+        },
+        "th": {
+            "appleCashType": "APPTh",
+            "googleCashType": "GGTh"
+        },
+        "gofa": {
+            "appleCashType": "APPTh",
+            "googleCashType": "GGTh"
+        },
+        "id": {
+            "appleCashType": "APPId",
+            "googleCashType": "GGId"
+        },
+        "my": {
+            "appleCashType": "APPMy",
+            "googleCashType": "GGMy"
+        },
+        "mm": {
+            "appleCashType": "APPMm",
+            "googleCashType": "GGMm"
+        },
+        "in": {
+            "appleCashType": "APPIn",
+            "googleCashType": "GGIn"
+        }
+    }
+}

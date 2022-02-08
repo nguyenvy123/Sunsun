@@ -1,0 +1,406 @@
+{
+  "TestCase": [
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 100000,
+          "frontHand": "3t;2t;7r",
+          "middleHand": "10t;10r;4b;Qt;5c",
+          "backHand": "Kb;Kt;Kr;6r;6t"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "10c;3r;4r",
+          "middleHand": "Ar;9b;7c;Kc;6c",
+          "backHand": "7b;7t;2r;2c;Jr"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "9t;3b;Jb",
+          "middleHand": "Ab;At;4t;8r;6b",
+          "backHand": "5b;5t;10b;10t;2b"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "3c;4c;5r",
+          "middleHand": "8t;8c;9r;9c;Ac",
+          "backHand": "Qr;Qc;Qb;Jt;Jc"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 100000,
+          "frontHand": "2b;3t;4r",
+          "middleHand": "5b;6c;7b;8t;9r",
+          "backHand": "10b;Jt;Qr;Kt;Ar"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "2r;4t;7r",
+          "middleHand": "3r;5r;3b;5t;6r",
+          "backHand": "7c;8r;9t;10t;Jb"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "8b;8c;3c",
+          "middleHand": "6b;6t;Qb;Qt;9c",
+          "backHand": "Ab;At;Ac;10r;10c"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "5c;7t;Qc",
+          "middleHand": "Jr;Jc;2t;2c;9b",
+          "backHand": "Kb;Kr;Kc;4c;4b"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "4b;4t;4r",
+          "middleHand": "7t;3t;Qt;2t;9t",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        },
+        {
+          "gold": 1000000,
+          "frontHand": "7b;3b;2r",
+          "middleHand": "5t;Jt;At;10t;8t",
+          "backHand": "6t;6r;6c;8r;8c"
+        },
+        {
+          "gold": 100000,
+          "frontHand": "9b;9r;9c",
+          "middleHand": "10b;Jb;Qb;Kt;Ab",
+          "backHand": "2c;3c;4c;5c;7c"
+        },
+        {
+          "gold": 1000000,
+          "frontHand": "2b;3r;6b",
+          "middleHand": "5b;5r;8c;7r;Kb",
+          "backHand": "10r;Jr;Qr;Kr;Ar"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "At;4c;5c",
+          "middleHand": "4t;5t;6t;7t;8t",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "2b;3b;4b",
+          "middleHand": "5b;6b;7b;8b;9b",
+          "backHand": "10b;Jb;Qb;Kb;Ab"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "2t;3r;4r",
+          "middleHand": "5r;6c;7r;8c;9t",
+          "backHand": "10r;Jt;Qt;Kt;Ar"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "3t;3c;7c",
+          "middleHand": "6r;8r;Jr;Qr;Kr",
+          "backHand": "2r;2c;9r;9c;10t"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "3b;4r;9t",
+          "middleHand": "6b;6t;6r;7t;7r",
+          "backHand": "10b;10t;10c;9b;9c"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "Kb;Kt;Kc",
+          "middleHand": "Ab;At;Ar;Ac;Jc",
+          "backHand": "Jb;Jt;Qt;Qb;Qc"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "3t;4t;5t",
+          "middleHand": "4c;5c;6c;7c;8c",
+          "backHand": "9r;10r;Jr;Qr;Kr"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "2b;2t;3r",
+          "middleHand": "3c;4b;7b;8b;8t",
+          "backHand": "2r;2c;5b;5r;8r"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "2b;4b;6b",
+          "middleHand": "6t;8t;Jt;Kt;4t",
+          "backHand": "4c;Ac;9c;6c;Jc"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "2r;4r;6r",
+          "middleHand": "8b;3b;7b;Qb;10b",
+          "backHand": "3t;9t;2t;Qt;At"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "8c;7t;9b",
+          "middleHand": "2c;Qc;Kb;Ab;Kc",
+          "backHand": "9r;Jr;Qr;Kr;Ar"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "8r;Jb;3r",
+          "middleHand": "10t;10r;10c;7r;7c",
+          "backHand": "5b;5t;5r;5c;3c"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "6t;8t;Ab",
+          "middleHand": "10r;Jr;Qr;Kr;Ar",
+          "backHand": "10t;Jt;Qt;Kt;At"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "9t;9r;6r",
+          "middleHand": "3b;4b;5b;6b;7b",
+          "backHand": "5c;6c;7c;8c;9c"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "7t;7r;Kb",
+          "middleHand": "8b;9b;10b;Jb;Qb",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "3t;3r;3c",
+          "middleHand": "4t;4r;4c;5t;5r",
+          "backHand": "2b;2t;2r;2c;Kb"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "2b;8t;At",
+          "middleHand": "4b;4t;4r;4c;2c",
+          "backHand": "Kb;Kt;Kr;Kc;3r"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "7b;9t;Ar",
+          "middleHand": "5b;5t;10c;10t;8b",
+          "backHand": "3t;7t;Jt;Qt;2t"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "2r;9b;Ac",
+          "middleHand": "6b;6t;6r;6c;Ab",
+          "backHand": "8c;9r;10b;Jc;Qc"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "3b;Jb;Qb",
+          "middleHand": "5r;5c;7r;7c;3c",
+          "backHand": "8r;9c;10r;Jr;Qr"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "4r;2c;5t",
+          "middleHand": "6b;6t;8b;8t;Qr",
+          "backHand": "10b;10t;10r;10c;4t"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "9b;9t;4b",
+          "middleHand": "9r;9c;Jb;2r;5r",
+          "backHand": "4c;7c;5c;Jc;Ac"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "3r;3c;7r",
+          "middleHand": "6r;6c;8r;8c;Ar",
+          "backHand": "Kb;Kt;Kr;Kc;2t"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "7b;7t;Jr",
+          "middleHand": "Qt;Qc;Jt;3t;At",
+          "backHand": "2b;3b;5b;Qb;Ab"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "4t;4r;4c",
+          "middleHand": "2b;2t;2r;2c;4b",
+          "backHand": "6b;6t;6r;6c;3b"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "9b;7r;3t",
+          "middleHand": "10b;Jb;Qb;Kb;Ab",
+          "backHand": "10r;Jr;Qr;Kr;Ar"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "9r;7c;3c",
+          "middleHand": "10t;Jt;Qt;Kt;At",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "2r;2c;Ac",
+          "middleHand": "4c;7r;5c;6r;6c",
+          "backHand": "10r;10c;Jc;Qc;Kc"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "2b;2t;8t",
+          "middleHand": "8c;7b;7t;9b;9t",
+          "backHand": "Qb;Qt;Kb;Kt;Jb"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "3b;4b;5t",
+          "middleHand": "5b;6b;7c;8b;9r",
+          "backHand": "10b;Jt;Qr;Kr;Ab"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "3c;9c;5c",
+          "middleHand": "3t;4t;At;6t;10t",
+          "backHand": "4r;Ar;8r;Jr;3r"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "9b;9t;9r",
+          "middleHand": "2b;2t;2r;2c;Jb",
+          "backHand": "Jt;Jr;Qb;Qt;Qr"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "3b;3t;3r",
+          "middleHand": "4b;4t;4r;7b;7t",
+          "backHand": "7r;10t;10r;10c;Ab"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "Kb;Kt;Kr",
+          "middleHand": "8c;9c;Jc;Qc;Kc",
+          "backHand": "At;Ar;Ac;5b;5t"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "6b;6t;10b",
+          "middleHand": "8b;8t;8r;5r;6r",
+          "backHand": "3c;4c;5c;6c;7c"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "Ab;At;3t",
+          "middleHand": "5t;6t;7t;8t;9t",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "10t;8r;8c",
+          "middleHand": "3b;3r;4b;7r;7c",
+          "backHand": "2c;3c;4c;5c;6c"
+        },
+        {
+          "gold": 500000,
+          "frontHand": "Jt;Jr;4t",
+          "middleHand": "5r;2r;4r;6r;10r",
+          "backHand": "Kb;Kt;Kr;9r;9c"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "Ar;2t;2b",
+          "middleHand": "Qb;Qt;Qr;10b;Jb",
+          "backHand": "5b;6b;7b;8b;9b"
+        }
+      ]
+    },
+    {
+      "stake": 10000,
+      "jackpot": 1000000,
+      "Hand": [
+        {
+          "gold": 1000000,
+          "frontHand": "9t;3b;Ar",
+          "middleHand": "2r;3r;4r;5r;6r",
+          "backHand": "2b;2t;4b;4t;At"
+        },
+        {
+          "gold": 5000000,
+          "frontHand": "2c;3c;4c",
+          "middleHand": "5c;6c;7c;8c;9c",
+          "backHand": "10c;Jc;Qc;Kc;Ac"
+        }
+      ]
+    }
+  ]
+}

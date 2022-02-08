@@ -1,0 +1,68 @@
+{
+    "Interval": {
+        "WEEKLY_CHALLENGE": {
+            "startDateUnixTime": 1626454800,
+            "endDateUnixTime": 1627059599,
+            "showDateUnixTime": 1626454800,
+            "showDateUnixTimeEnd": 1627059599,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "BOARD_TRIP": {
+            "startDateUnixTime": 1618966800,
+            "endDateUnixTime": 1619629199,
+            "showDateUnixTime": 1618966800,
+            "showDateUnixTimeEnd": 1619629199,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "BOARD_QUEST": {
+            "startDateUnixTime": 1621530000,
+            "endDateUnixTime": 1622480399,
+            "showDateUnixTime": 1621530000,
+            "showDateUnixTimeEnd": 1622566799,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "SMASH_EGGS": {
+            "startDateUnixTime": 1622480400,
+            "endDateUnixTime": 1623689999,
+            "showDateUnixTime": 1622480400,
+            "showDateUnixTimeEnd": 1624294799,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "HOME_COMING": {
+            "startDateUnixTime": 1623690000,
+            "endDateUnixTime": 1624899599,
+            "showDateUnixTime": 1623690000,
+            "showDateUnixTimeEnd": 1624899599,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "BOARD_MOLE": {
+            "startDateUnixTime": 1624986000,
+            "endDateUnixTime": 1625763599,
+            "showDateUnixTime": 1624986000,
+            "showDateUnixTimeEnd": 1625763599,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "FISHING_PARTY": {
+            "startDateUnixTime": 1625763600,
+            "endDateUnixTime": 1626973199,
+            "showDateUnixTime": 1625763600,
+            "showDateUnixTimeEnd": 1627577999,
+            "availableCountries": "*",
+            "isAvailable": 0
+        },
+        "VIRUS_HUNTER": {
+            "startDateUnixTime": 1626800400,
+            "endDateUnixTime": 1628009999,
+            "showDateUnixTime": 1626800400,
+            "showDateUnixTimeEnd": 1628614799,
+            "availableCountries": "*",
+            "isAvailable": 1
+        }
+    }
+}

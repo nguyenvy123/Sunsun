@@ -1,0 +1,29 @@
+{
+    "Misc": {
+        "rateRoll2Point": 1,
+        "activeEvent": 9
+    },
+    "Milestones": [
+        {
+            "point": 1000000,
+            "rewards": {
+                "gold": 10000000,
+                "vPoint": 10
+            }
+        },
+        {
+            "point": 2000000,
+            "rewards": {
+                "gold": 20000000,
+                "vPoint": 20
+            }
+        },
+        {
+            "point": 3000000,
+            "rewards": {
+                "gold": 30000000,
+                "vPoint": 30
+            }
+        }
+    ]
+}

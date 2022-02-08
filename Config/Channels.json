@@ -1,0 +1,341 @@
+{
+    "PriorityRule": [
+        {
+            "nPaying": 0,
+            "gamePlay": [
+                {
+                    "playedGame": 10,
+                    "rate": 10
+                },
+                {
+                    "playedGame": 20,
+                    "rate": 5
+                },
+                {
+                    "playedGame": 50,
+                    "rate": 2
+                }
+            ]
+        },
+        {
+            "nPaying": 1,
+            "gamePlay": [
+                {
+                    "playedGame": 10,
+                    "rate": 2
+                }
+            ]
+        }
+    ],
+    "Channels": {
+        "1": {
+            "minRequire": 1200000,
+            "structure": [
+                1000,
+                1001
+            ],
+            "minPlayersToStart": 2,
+            "joinUnderChannel": 1,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 1,
+            "quickCreateRoom": 1001,
+            "available": 1
+        },
+        "2": {
+            "minRequire": 7500000,
+            "structure": [
+                2000,
+                2001,
+                2002,
+                2003
+            ],
+            "minPlayersToStart": 2,
+            "joinUnderChannel": 2,
+            "quickPlayUnderChannel": 1,
+            "quickplayMode": 1,
+            "quickCreateRoom": 2003,
+            "available": 1
+        },
+        "3": {
+            "minRequire": 75000000,
+            "structure": [
+                3000,
+                3001,
+                3002,
+                3003
+            ],
+            "minPlayersToStart": 2,
+            "joinUnderChannel": 2,
+            "quickPlayUnderChannel": 2,
+            "quickplayMode": 1,
+            "quickCreateRoom": 3003,
+            "available": 1
+        },
+        "4": {
+            "minRequire": 750000000,
+            "structure": [
+                4000,
+                4001,
+                4002,
+                4003
+            ],
+            "minPlayersToStart": 2,
+            "joinUnderChannel": 2,
+            "quickPlayUnderChannel": 2,
+            "quickplayMode": 1,
+            "quickCreateRoom": 4003,
+            "available": 1
+        },
+        "5": {
+            "minRequire": 7500000000,
+            "structure": [
+                5000,
+                5001,
+                5002,
+                5003
+            ],
+            "minPlayersToStart": 2,
+            "joinUnderChannel": 2,
+            "quickPlayUnderChannel": 2,
+            "quickplayMode": 2,
+            "quickCreateRoom": 4003,
+            "available": 0
+        }
+    },
+    "GameStructures": {
+        "1000": {
+            "maxPlayers": 4,
+            "stake": 100000,
+            "buyInMin": 1200000,
+            "goldMinContinue": 1,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 60,
+            "durationCompareHand": 9
+        },
+        "1001": {
+            "maxPlayers": 4,
+            "stake": 200000,
+            "buyInMin": 3000000,
+            "goldMinContinue": 1,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 60,
+            "durationCompareHand": 9
+        },
+        "2000": {
+            "maxPlayers": 4,
+            "stake": 500000,
+            "buyInMin": 7500000,
+            "goldMinContinue": 1,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 60,
+            "durationCompareHand": 9
+        },
+        "2001": {
+            "maxPlayers": 4,
+            "stake": 1000000,
+            "buyInMin": 15000000,
+            "goldMinContinue": 4000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 60,
+            "durationCompareHand": 9
+        },
+        "2002": {
+            "maxPlayers": 4,
+            "stake": 2000000,
+            "buyInMin": 30000000,
+            "goldMinContinue": 8000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "2003": {
+            "maxPlayers": 4,
+            "stake": 3000000,
+            "buyInMin": 45000000,
+            "goldMinContinue": 12000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "3000": {
+            "maxPlayers": 4,
+            "stake": 5000000,
+            "buyInMin": 75000000,
+            "goldMinContinue": 20000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "3001": {
+            "maxPlayers": 4,
+            "stake": 10000000,
+            "buyInMin": 150000000,
+            "goldMinContinue": 40000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "3002": {
+            "maxPlayers": 4,
+            "stake": 20000000,
+            "buyInMin": 300000000,
+            "goldMinContinue": 80000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "3003": {
+            "maxPlayers": 4,
+            "stake": 30000000,
+            "buyInMin": 450000000,
+            "goldMinContinue": 120000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "4000": {
+            "maxPlayers": 4,
+            "stake": 50000000,
+            "buyInMin": 750000000,
+            "goldMinContinue": 200000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "4001": {
+            "maxPlayers": 4,
+            "stake": 100000000,
+            "buyInMin": 1500000000,
+            "goldMinContinue": 400000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "4002": {
+            "maxPlayers": 4,
+            "stake": 200000000,
+            "buyInMin": 3000000000,
+            "goldMinContinue": 800000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "4003": {
+            "maxPlayers": 4,
+            "stake": 300000000,
+            "buyInMin": 4500000000,
+            "goldMinContinue": 1200000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "5000": {
+            "maxPlayers": 4,
+            "stake": 500000000,
+            "buyInMin": 7500000000,
+            "goldMinContinue": 2000000000,
+            "playerSizePoint": 100000,
+            "structurePoint": 1,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "5001": {
+            "maxPlayers": 4,
+            "stake": 1000000000,
+            "buyInMin": 15000000000,
+            "goldMinContinue": 4000000000,
+            "playerSizePoint": 100000,
+            "structurePoint": 1,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "5002": {
+            "maxPlayers": 4,
+            "stake": 2000000000,
+            "buyInMin": 30000000000,
+            "goldMinContinue": 8000000000,
+            "playerSizePoint": 100000,
+            "structurePoint": 1,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        },
+        "5003": {
+            "maxPlayers": 4,
+            "stake": 3000000000,
+            "buyInMin": 45000000000,
+            "goldMinContinue": 12000000000,
+            "playerSizePoint": 100000,
+            "structurePoint": 1,
+            "durationSwapCard": 45,
+            "durationCompareHand": 9
+        }
+    },
+    "BOT": {
+        "1": {
+            "minTimeOut": 1,
+            "maxTimeOut": 9,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 1,
+            "available": 0
+        },
+        "2": {
+            "minTimeOut": 1,
+            "maxTimeOut": 9,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 1,
+            "available": 0
+        },
+        "3": {
+            "minTimeOut": 1,
+            "maxTimeOut": 9,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 1,
+            "available": 0
+        },
+        "4": {
+            "minTimeOut": 1,
+            "maxTimeOut": 9,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 2,
+            "available": 0
+        },
+        "5": {
+            "minTimeOut": 1,
+            "maxTimeOut": 9,
+            "minJoinGame": 5,
+            "maxJoinGame": 15,
+            "maxGameHand": 5,
+            "maxBOT": 4,
+            "available": 0
+        }
+    },
+    "Jackpot": {
+        "1": 72000000,
+        "2": 450000000,
+        "3": 4500000000,
+        "4": 45000000000,
+        "5": 450000000000
+    }
+}

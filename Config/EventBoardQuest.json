@@ -1,0 +1,497 @@
+{
+    "Misc": {
+        "startTime": 1621530000,
+        "openTime": 1621530000,
+        "finishTime": 1622480399,
+        "limitAppearOfferNormal": 30,
+        "limitAppearOfferSale": 30,
+        "maxTurn": 20,
+        "freeTurn": 2,
+        "meterTurn": 2,
+        "tutorialRolls": "8;5",
+        "minGamesToPlay": 2,
+        "minTimeToPlay": 1800,
+        "boardPerCycle": 5,
+        "minSteps": 2,
+        "maxSteps": 12
+    },
+    "Cycles": [
+        {
+            "barMeterPoint": 1000000,
+            "requiredGold": 0,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 100000,
+            "goldRatio": 1,
+            "boardRewardRatio": 1
+        },
+        {
+            "barMeterPoint": 10000000,
+            "requiredGold": 30000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 500000,
+            "goldRatio": 5,
+            "boardRewardRatio": 5
+        },
+        {
+            "barMeterPoint": 180000000,
+            "requiredGold": 300000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 5000000,
+            "goldRatio": 40,
+            "boardRewardRatio": 40
+        },
+        {
+            "barMeterPoint": 1800000000,
+            "requiredGold": 3000000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 50000000,
+            "goldRatio": 120,
+            "boardRewardRatio": 120
+        }
+    ],
+    "Offers": [
+        {
+            "cost": 10000,
+            "cycles": 0,
+            "start": 0,
+            "end": 8,
+            "delay": 1,
+            "turns": 7,
+            "gold": 300000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 1,
+            "start": 0,
+            "end": 8,
+            "delay": 1,
+            "turns": 7,
+            "gold": 500000000,
+            "vPoint": 300
+        },
+        {
+            "cost": 50000,
+            "cycles": 2,
+            "start": 0,
+            "end": 8,
+            "delay": 1,
+            "turns": 7,
+            "gold": 1000000000,
+            "vPoint": 500
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 0,
+            "end": 8,
+            "delay": 1,
+            "turns": 7,
+            "gold": 2500000000,
+            "vPoint": 1000
+        },
+        {
+            "cost": 10000,
+            "cycles": 0,
+            "start": 9,
+            "end": 10,
+            "delay": 1,
+            "turns": 14,
+            "gold": 300000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 1,
+            "start": 9,
+            "end": 10,
+            "delay": 1,
+            "turns": 14,
+            "gold": 500000000,
+            "vPoint": 300
+        },
+        {
+            "cost": 50000,
+            "cycles": 2,
+            "start": 9,
+            "end": 10,
+            "delay": 1,
+            "turns": 14,
+            "gold": 1000000000,
+            "vPoint": 500
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 9,
+            "end": 10,
+            "delay": 1,
+            "turns": 14,
+            "gold": 2500000000,
+            "vPoint": 1000
+        }
+    ],
+    "Mystery": [
+        [
+            {
+                "percent": 25,
+                "value": 2100000
+            },
+            {
+                "percent": 30,
+                "value": 4200000
+            },
+            {
+                "percent": 25,
+                "value": 10500000
+            },
+            {
+                "percent": 10,
+                "value": "3:4"
+            },
+            {
+                "percent": 10,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 30,
+                "value": 2500000
+            },
+            {
+                "percent": 30,
+                "value": 5000000
+            },
+            {
+                "percent": 20,
+                "value": 12500000
+            },
+            {
+                "percent": 10,
+                "value": "3:4"
+            },
+            {
+                "percent": 10,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 40,
+                "value": 2500000
+            },
+            {
+                "percent": 30,
+                "value": 5000000
+            },
+            {
+                "percent": 15,
+                "value": 12500000
+            },
+            {
+                "percent": 5,
+                "value": "3:4"
+            },
+            {
+                "percent": 10,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 45,
+                "value": 3000000
+            },
+            {
+                "percent": 25,
+                "value": 6000000
+            },
+            {
+                "percent": 10,
+                "value": 15000000
+            },
+            {
+                "percent": 5,
+                "value": "3:4"
+            },
+            {
+                "percent": 15,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 50,
+                "value": 3500000
+            },
+            {
+                "percent": 25,
+                "value": 7000000
+            },
+            {
+                "percent": 5,
+                "value": 17500000
+            },
+            {
+                "percent": 5,
+                "value": "3:4"
+            },
+            {
+                "percent": 15,
+                "value": -1
+            }
+        ]
+    ],
+    "BonusPurchase": {
+        "SMS_ID_1": {
+            "ticket": 0
+        },
+        "SMS_ID_2": {
+            "ticket": 0
+        },
+        "SMS_ID_3": {
+            "ticket": 0
+        },
+        "SMS_ID_4": {
+            "ticket": 0
+        },
+        "SMS_ID_5": {
+            "ticket": 0
+        },
+        "SMS_ID_6": {
+            "ticket": 1
+        },
+        "SMS_ID_7": {
+            "ticket": 0
+        },
+        "SMS_ID_8": {
+            "ticket": 3
+        },
+        "SMS_ID_9": {
+            "ticket": 0
+        },
+        "SMS_ID_10": {
+            "ticket": 0
+        },
+        "SMS_ID_11": {
+            "ticket": 6
+        },
+        "SMS_ID_12": {
+            "ticket": 0
+        },
+        "SMS_ID_13": {
+            "ticket": 0
+        },
+        "susun_1a": {
+            "ticket": 0
+        },
+        "susun_2a": {
+            "ticket": 1
+        },
+        "susun_3a": {
+            "ticket": 2
+        },
+        "susun_5a": {
+            "ticket": 3
+        },
+        "susun_10a": {
+            "ticket": 6
+        },
+        "susun_50a": {
+            "ticket": 30
+        },
+        "WL_ID_1": {
+            "ticket": 0
+        },
+        "WL_ID_2": {
+            "ticket": 0
+        },
+        "WL_ID_3": {
+            "ticket": 0
+        },
+        "WL_ID_4": {
+            "ticket": 0
+        },
+        "WL_ID_5": {
+            "ticket": 0
+        },
+        "WL_ID_6": {
+            "ticket": 1
+        },
+        "WL_ID_7": {
+            "ticket": 0
+        },
+        "WL_ID_8": {
+            "ticket": 3
+        },
+        "WL_ID_9": {
+            "ticket": 0
+        },
+        "WL_ID_10": {
+            "ticket": 0
+        },
+        "WL_ID_11": {
+            "ticket": 6
+        },
+        "WL_ID_12": {
+            "ticket": 0
+        },
+        "WL_ID_13": {
+            "ticket": 0
+        }
+    },
+    "CannonAttack": [
+        {
+            "bullets": [
+                {
+                    "damage": 1,
+                    "percent": 5
+                },
+                {
+                    "damage": 2,
+                    "percent": 20
+                },
+                {
+                    "damage": 4,
+                    "percent": 55
+                },
+                {
+                    "damage": 7,
+                    "percent": 20
+                }
+            ],
+            "healthOfWarShip": 9,
+            "ticketEvent": 1,
+            "boardReward": 7500000
+        },
+        {
+            "bullets": [
+                {
+                    "damage": 1,
+                    "percent": 10
+                },
+                {
+                    "damage": 2,
+                    "percent": 35
+                },
+                {
+                    "damage": 4,
+                    "percent": 40
+                },
+                {
+                    "damage": 7,
+                    "percent": 15
+                }
+            ],
+            "healthOfWarShip": 12,
+            "ticketEvent": 2,
+            "boardReward": 18000000
+        },
+        {
+            "bullets": [
+                {
+                    "damage": 1,
+                    "percent": 20
+                },
+                {
+                    "damage": 2,
+                    "percent": 35
+                },
+                {
+                    "damage": 4,
+                    "percent": 35
+                },
+                {
+                    "damage": 7,
+                    "percent": 10
+                }
+            ],
+            "healthOfWarShip": 20,
+            "ticketEvent": 3,
+            "boardReward": 50000000
+        },
+        {
+            "bullets": [
+                {
+                    "damage": 1,
+                    "percent": 25
+                },
+                {
+                    "damage": 2,
+                    "percent": 40
+                },
+                {
+                    "damage": 4,
+                    "percent": 30
+                },
+                {
+                    "damage": 7,
+                    "percent": 5
+                }
+            ],
+            "healthOfWarShip": 30,
+            "ticketEvent": 4,
+            "boardReward": 120000000
+        },
+        {
+            "bullets": [
+                {
+                    "damage": 1,
+                    "percent": 30
+                },
+                {
+                    "damage": 2,
+                    "percent": 40
+                },
+                {
+                    "damage": 4,
+                    "percent": 25
+                },
+                {
+                    "damage": 7,
+                    "percent": 5
+                }
+            ],
+            "healthOfWarShip": 45,
+            "ticketEvent": 5,
+            "boardReward": 180000000
+        }
+    ],
+    "RollPercent": [
+        [
+            20,
+            30,
+            25,
+            25
+        ],
+        [
+            20,
+            40,
+            20,
+            20
+        ],
+        [
+            25,
+            35,
+            25,
+            15
+        ],
+        [
+            30,
+            35,
+            25,
+            10
+        ],
+        [
+            30,
+            35,
+            25,
+            10
+        ]
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "Misc": {
+        "startTime": 1618966800,
+        "openTime": 1618966800,
+        "finishTime": 1619629199,
+        "limitAppearOfferNormal": 30,
+        "limitAppearOfferSale": 30,
+        "maxTurn": 20,
+        "turnsPerFullMeter": 2
+    },
+    "Cycles": [
+        {
+            "barMeterPoint": 1000000,
+            "requiredGold": 0,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 100000,
+            "goldRatio": 1,
+            "heartRatio": 10,
+            "chapterReward": [
+                28500000,
+                66000000,
+                141000000
+            ],
+            "grandReward": 235500000
+        },
+        {
+            "barMeterPoint": 10000000,
+            "requiredGold": 30000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 500000,
+            "goldRatio": 8,
+            "heartRatio": 40,
+            "chapterReward": [
+                76000000,
+                176000000,
+                376000000
+            ],
+            "grandReward": 628000000
+        },
+        {
+            "barMeterPoint": 120000000,
+            "requiredGold": 300000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 5000000,
+            "goldRatio": 25,
+            "heartRatio": 100,
+            "chapterReward": [
+                273600000,
+                634000000,
+                1354000000
+            ],
+            "grandReward": 2261000000
+        },
+        {
+            "barMeterPoint": 2400000000,
+            "requiredGold": 3000000000,
+            "winGoldRate": 0.05,
+            "loseGoldRate": 0.01,
+            "minStake": 50000000,
+            "goldRatio": 50,
+            "heartRatio": 200,
+            "chapterReward": [
+                1824000000,
+                4224000000,
+                9024000000
+            ],
+            "grandReward": 15072000000
+        }
+    ],
+    "Offers": [
+        {
+            "cost": 5000,
+            "cycles": 0,
+            "start": 0,
+            "end": 5,
+            "delay": 1,
+            "turns": 7,
+            "gold": 80000000,
+            "vPoint": 80
+        },
+        {
+            "cost": 10000,
+            "cycles": 1,
+            "start": 0,
+            "end": 5,
+            "delay": 1,
+            "turns": 7,
+            "gold": 160000000,
+            "vPoint": 160
+        },
+        {
+            "cost": 20000,
+            "cycles": 2,
+            "start": 0,
+            "end": 5,
+            "delay": 1,
+            "turns": 7,
+            "gold": 320000000,
+            "vPoint": 320
+        },
+        {
+            "cost": 50000,
+            "cycles": 3,
+            "start": 0,
+            "end": 5,
+            "delay": 1,
+            "turns": 7,
+            "gold": 800000000,
+            "vPoint": 800
+        },
+        {
+            "cost": 5000,
+            "cycles": 0,
+            "start": 6,
+            "end": 7,
+            "delay": 1,
+            "turns": 14,
+            "gold": 80000000,
+            "vPoint": 80
+        },
+        {
+            "cost": 10000,
+            "cycles": 1,
+            "start": 6,
+            "end": 7,
+            "delay": 1,
+            "turns": 14,
+            "gold": 160000000,
+            "vPoint": 160
+        },
+        {
+            "cost": 20000,
+            "cycles": 2,
+            "start": 6,
+            "end": 7,
+            "delay": 1,
+            "turns": 14,
+            "gold": 320000000,
+            "vPoint": 320
+        },
+        {
+            "cost": 50000,
+            "cycles": 3,
+            "start": 6,
+            "end": 7,
+            "delay": 1,
+            "turns": 14,
+            "gold": 800000000,
+            "vPoint": 800
+        }
+    ],
+    "BonusPurchase": [
+        {
+            "type": 0,
+            "localCost": 5000,
+            "turns": 0
+        },
+        {
+            "type": 0,
+            "localCost": 10000,
+            "turns": 1
+        },
+        {
+            "type": 0,
+            "localCost": 20000,
+            "turns": 2
+        },
+        {
+            "type": 0,
+            "localCost": 50000,
+            "turns": 5
+        },
+        {
+            "type": 0,
+            "localCost": 100000,
+            "turns": 10
+        },
+        {
+            "type": 1,
+            "localCost": 10000,
+            "turns": 1
+        },
+        {
+            "type": 1,
+            "localCost": 20000,
+            "turns": 2
+        },
+        {
+            "type": 1,
+            "localCost": 30000,
+            "turns": 3
+        },
+        {
+            "type": 1,
+            "localCost": 50000,
+            "turns": 5
+        },
+        {
+            "type": 1,
+            "localCost": 100000,
+            "turns": 10
+        },
+        {
+            "type": 1,
+            "localCost": 500000,
+            "turns": 50
+        },
+        {
+            "type": 2,
+            "localCost": 5000,
+            "turns": 0
+        },
+        {
+            "type": 2,
+            "localCost": 10000,
+            "turns": 1
+        },
+        {
+            "type": 2,
+            "localCost": 20000,
+            "turns": 2
+        },
+        {
+            "type": 2,
+            "localCost": 50000,
+            "turns": 5
+        },
+        {
+            "type": 2,
+            "localCost": 100000,
+            "turns": 10
+        }
+    ],
+    "SpinPercent": [
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 5,
+            "6": 5,
+            "7": 15,
+            "8": 20,
+            "9": 20,
+            "10": 15
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 5,
+            "6": 15,
+            "7": 20,
+            "8": 20,
+            "9": 15,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 5,
+            "5": 15,
+            "6": 20,
+            "7": 20,
+            "8": 15,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 5,
+            "4": 15,
+            "5": 20,
+            "6": 20,
+            "7": 15,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 5,
+            "3": 15,
+            "4": 20,
+            "5": 20,
+            "6": 15,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 15,
+            "3": 20,
+            "4": 20,
+            "5": 15,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 5,
+            "2": 15,
+            "3": 20,
+            "4": 20,
+            "5": 15,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 15,
+            "2": 20,
+            "3": 20,
+            "4": 15,
+            "5": 5,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        },
+        {
+            "1": 15,
+            "2": 20,
+            "3": 20,
+            "4": 15,
+            "5": 5,
+            "6": 5,
+            "7": 5,
+            "8": 5,
+            "9": 5,
+            "10": 5
+        }
+    ],
+    "MysteryPercent": [
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            30,
+            5,
+            30,
+            30,
+            5
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ],
+        [
+            33,
+            1,
+            33,
+            32,
+            1
+        ]
+    ]
+}
