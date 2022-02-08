@@ -1,0 +1,44 @@
+{
+    "0": {
+        "enable": true,
+        "server": "localhost:9092,localhost:9093",
+        "id": "susun_id",
+        "topic_request": "susun_id_action_so_request",
+        "topic_response": "susun_id_action_so_response",
+        "queueCapacity": 10000,
+        "threadPoolSize": 1,
+        "truststorePath": "",
+        "truststorePassword": "",
+        "keystorePath": "",
+        "keystorePassword": "",
+        "enableSSL": false
+    },
+    "1": {
+        "enable": true,
+        "server": "49.213.81.43:10040,49.213.81.43:10041",
+        "id": "susun_id",
+        "topic_request": "susun_id_action_so_request",
+        "topic_response": "susun_id_action_so_response",
+        "queueCapacity": 10000,
+        "threadPoolSize": 1,
+        "truststorePath": "",
+        "truststorePassword": "",
+        "keystorePath": "",
+        "keystorePassword": "",
+        "enableSSL": false
+    },
+    "2": {
+        "enable": false,
+        "server": "kafka1.zingplay.com:9092,kafka2.zingplay.com:9092,kafka3.zingplay.com:9092",
+        "id": "susun_id",
+        "topic_request": "susun_id_action_so_request",
+        "topic_response": "susun_id_action_so_response",
+        "queueCapacity": 10000,
+        "threadPoolSize": 1,
+        "truststorePath": "",
+        "truststorePassword": "",
+        "keystorePath": "",
+        "keystorePassword": "",
+        "enableSSL": false
+    }
+}

@@ -5,7 +5,7 @@ from airtest.core.api import *
 
 auto_setup(__file__)
 
-projectFolder = "D:\\LinhDNA\\Projects\\Git\\AutoSusun"
+projectFolder = "D:\\Susun"
 PKG = "com.zingplay.laviuda"    # Package name
 APK = os.path.join(projectFolder, "Susun.apk")    # Apk name
 

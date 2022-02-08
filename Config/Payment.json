@@ -15,6 +15,7 @@
                 "inter": 1
             },
             "pkgKey": "1a",
+            "productId": "zps.pack1",
             "isAvailable": 1
         },
         "susun_2a": {
@@ -27,6 +28,7 @@
                 "inter": 2
             },
             "pkgKey": "2a",
+            "productId": "zps.pack3",
             "isAvailable": 1
         },
         "susun_3a": {
@@ -39,6 +41,7 @@
                 "inter": 3
             },
             "pkgKey": "3a",
+            "productId": "none",
             "isAvailable": 1
         },
         "susun_5a": {
@@ -51,6 +54,7 @@
                 "inter": 5
             },
             "pkgKey": "5a",
+            "productId": "zps.pack5",
             "isAvailable": 1
         },
         "susun_10a": {
@@ -63,6 +67,7 @@
                 "inter": 10
             },
             "pkgKey": "10a",
+            "productId": "zps.pack7",
             "isAvailable": 1
         },
         "susun_50a": {
@@ -75,6 +80,7 @@
                 "inter": 50
             },
             "pkgKey": "50a",
+            "productId": "zps.pack11",
             "isAvailable": 1
         }
     },

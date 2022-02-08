@@ -97,9 +97,9 @@
             "minPlayersToStart": 2,
             "joinUnderChannel": 2,
             "quickPlayUnderChannel": 2,
-            "quickplayMode": 2,
-            "quickCreateRoom": 4003,
-            "available": 0
+            "quickplayMode": 1,
+            "quickCreateRoom": 5003,
+            "available": 1
         }
     },
     "GameStructures": {
@@ -248,8 +248,8 @@
             "stake": 500000000,
             "buyInMin": 7500000000,
             "goldMinContinue": 2000000000,
-            "playerSizePoint": 100000,
-            "structurePoint": 1,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
             "durationSwapCard": 45,
             "durationCompareHand": 9
         },
@@ -258,28 +258,28 @@
             "stake": 1000000000,
             "buyInMin": 15000000000,
             "goldMinContinue": 4000000000,
-            "playerSizePoint": 100000,
-            "structurePoint": 1,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
             "durationSwapCard": 45,
             "durationCompareHand": 9
         },
         "5002": {
             "maxPlayers": 4,
-            "stake": 2000000000,
-            "buyInMin": 30000000000,
-            "goldMinContinue": 8000000000,
-            "playerSizePoint": 100000,
-            "structurePoint": 1,
+            "stake": 5000000000,
+            "buyInMin": 75000000000,
+            "goldMinContinue": 20000000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
             "durationSwapCard": 45,
             "durationCompareHand": 9
         },
         "5003": {
             "maxPlayers": 4,
-            "stake": 3000000000,
-            "buyInMin": 45000000000,
-            "goldMinContinue": 12000000000,
-            "playerSizePoint": 100000,
-            "structurePoint": 1,
+            "stake": 10000000000,
+            "buyInMin": 150000000000,
+            "goldMinContinue": 40000000000,
+            "playerSizePoint": 1,
+            "structurePoint": 100000,
             "durationSwapCard": 45,
             "durationCompareHand": 9
         }

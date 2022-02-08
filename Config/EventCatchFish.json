@@ -1,0 +1,948 @@
+{
+    "Misc": {
+        "openTime": 1631811600,
+        "startTime": 1631811600,
+        "endTime": 1633021199,
+        "closeTime": 1633625999,
+        "maxPiecesFragment": 4,
+        "numFishMode_1": "0:1",
+        "numFishMode_10": "10:11",
+        "ticketMode_1": 1,
+        "ticketMode_10": 9,
+        "completeMissionMode": 10,
+        "historyLimit": 30,
+        "numTicketReceiveFirstJoin": 1,
+        "daysDetectOldUsers": 1,
+        "limitTimeClaimRemainFragment": 604800,
+        "limitTimeClaimOutGameEndEvent": 604800,
+        "limitTimeUpdateUserInfo": 43200,
+        "directPayingPromotionDay": "3;14",
+        "directPayingPromotionBonus": 2,
+        "maxConfigLevelCommission": 50,
+        "baseCommissionDelta": 4000000000,
+        "redundantTicketQuantity": 40000,
+        "minNumOfPieceCanExchange": 1,
+        "numOfDailyMission": 21,
+        "numOfCycles": 1,
+        "minTimeToPlay": 0,
+        "minGamesToPlay": 0,
+        "goldOfSeabed": 25000000,
+        "rateWinGold": 0.05,
+        "rateLoseGold": 0.01,
+        "numberBonusTicket": 1,
+        "daysDetectLastLogin": 3
+    },
+    "TicketFromDirectPaying": [
+        {
+            "ticket": 8,
+            "cost": 5000
+        },
+        {
+            "ticket": 16,
+            "cost": 10000
+        },
+        {
+            "ticket": 32,
+            "cost": 20000
+        },
+        {
+            "ticket": 80,
+            "cost": 50000
+        },
+        {
+            "ticket": 160,
+            "cost": 100000
+        }
+    ],
+    "TicketFromCommission": {
+        "1": {
+            "requiredPoint": 7000000,
+            "ticket": 1,
+            "nextLevel": 2
+        },
+        "2": {
+            "requiredPoint": 8000000,
+            "ticket": 1,
+            "nextLevel": 3
+        },
+        "3": {
+            "requiredPoint": 9000000,
+            "ticket": 1,
+            "nextLevel": 4
+        },
+        "4": {
+            "requiredPoint": 10000000,
+            "ticket": 1,
+            "nextLevel": 5
+        },
+        "5": {
+            "requiredPoint": 11000000,
+            "ticket": 1,
+            "nextLevel": 6
+        },
+        "6": {
+            "requiredPoint": 16000000,
+            "ticket": 1,
+            "nextLevel": 7
+        },
+        "7": {
+            "requiredPoint": 21000000,
+            "ticket": 1,
+            "nextLevel": 8
+        },
+        "8": {
+            "requiredPoint": 26000000,
+            "ticket": 1,
+            "nextLevel": 9
+        },
+        "9": {
+            "requiredPoint": 31000000,
+            "ticket": 1,
+            "nextLevel": 10
+        },
+        "10": {
+            "requiredPoint": 36000000,
+            "ticket": 1,
+            "nextLevel": 11
+        },
+        "11": {
+            "requiredPoint": 50000000,
+            "ticket": 1,
+            "nextLevel": 12
+        },
+        "12": {
+            "requiredPoint": 64000000,
+            "ticket": 1,
+            "nextLevel": 13
+        },
+        "13": {
+            "requiredPoint": 78000000,
+            "ticket": 1,
+            "nextLevel": 14
+        },
+        "14": {
+            "requiredPoint": 92000000,
+            "ticket": 1,
+            "nextLevel": 15
+        },
+        "15": {
+            "requiredPoint": 106000000,
+            "ticket": 1,
+            "nextLevel": 16
+        },
+        "16": {
+            "requiredPoint": 150000000,
+            "ticket": 1,
+            "nextLevel": 17
+        },
+        "17": {
+            "requiredPoint": 194000000,
+            "ticket": 1,
+            "nextLevel": 18
+        },
+        "18": {
+            "requiredPoint": 238000000,
+            "ticket": 1,
+            "nextLevel": 19
+        },
+        "19": {
+            "requiredPoint": 282000000,
+            "ticket": 1,
+            "nextLevel": 20
+        },
+        "20": {
+            "requiredPoint": 326000000,
+            "ticket": 1,
+            "nextLevel": 21
+        },
+        "21": {
+            "requiredPoint": 400000000,
+            "ticket": 1,
+            "nextLevel": 22
+        },
+        "22": {
+            "requiredPoint": 474000000,
+            "ticket": 1,
+            "nextLevel": 23
+        },
+        "23": {
+            "requiredPoint": 548000000,
+            "ticket": 1,
+            "nextLevel": 24
+        },
+        "24": {
+            "requiredPoint": 622000000,
+            "ticket": 1,
+            "nextLevel": 25
+        },
+        "25": {
+            "requiredPoint": 800000000,
+            "ticket": 1,
+            "nextLevel": 26
+        },
+        "26": {
+            "requiredPoint": 978000000,
+            "ticket": 1,
+            "nextLevel": 27
+        },
+        "27": {
+            "requiredPoint": 1156000000,
+            "ticket": 1,
+            "nextLevel": 28
+        },
+        "28": {
+            "requiredPoint": 1334000000,
+            "ticket": 1,
+            "nextLevel": 29
+        },
+        "29": {
+            "requiredPoint": 1512000000,
+            "ticket": 1,
+            "nextLevel": 30
+        },
+        "30": {
+            "requiredPoint": 1690000000,
+            "ticket": 1,
+            "nextLevel": 31
+        },
+        "31": {
+            "requiredPoint": 2000000000,
+            "ticket": 1,
+            "nextLevel": 32
+        },
+        "32": {
+            "requiredPoint": 2310000000,
+            "ticket": 1,
+            "nextLevel": 33
+        },
+        "33": {
+            "requiredPoint": 2620000000,
+            "ticket": 1,
+            "nextLevel": 34
+        },
+        "34": {
+            "requiredPoint": 2930000000,
+            "ticket": 1,
+            "nextLevel": 35
+        },
+        "35": {
+            "requiredPoint": 3240000000,
+            "ticket": 1,
+            "nextLevel": 36
+        },
+        "36": {
+            "requiredPoint": 4000000000,
+            "ticket": 1,
+            "nextLevel": 37
+        },
+        "37": {
+            "requiredPoint": 4760000000,
+            "ticket": 1,
+            "nextLevel": 38
+        },
+        "38": {
+            "requiredPoint": 5520000000,
+            "ticket": 1,
+            "nextLevel": 39
+        },
+        "39": {
+            "requiredPoint": 6280000000,
+            "ticket": 1,
+            "nextLevel": 40
+        },
+        "40": {
+            "requiredPoint": 7040000000,
+            "ticket": 1,
+            "nextLevel": 41
+        },
+        "41": {
+            "requiredPoint": 10000000000,
+            "ticket": 1,
+            "nextLevel": 42
+        },
+        "42": {
+            "requiredPoint": 12960000000,
+            "ticket": 1,
+            "nextLevel": 43
+        },
+        "43": {
+            "requiredPoint": 15920000000,
+            "ticket": 1,
+            "nextLevel": 44
+        },
+        "44": {
+            "requiredPoint": 18880000000,
+            "ticket": 1,
+            "nextLevel": 45
+        },
+        "45": {
+            "requiredPoint": 21840000000,
+            "ticket": 1,
+            "nextLevel": 46
+        },
+        "46": {
+            "requiredPoint": 24800000000,
+            "ticket": 1,
+            "nextLevel": 47
+        },
+        "47": {
+            "requiredPoint": 27760000000,
+            "ticket": 1,
+            "nextLevel": 48
+        },
+        "48": {
+            "requiredPoint": 30720000000,
+            "ticket": 1,
+            "nextLevel": 49
+        },
+        "49": {
+            "requiredPoint": 33680000000,
+            "ticket": 1,
+            "nextLevel": 50
+        },
+        "50": {
+            "requiredPoint": 36640000000,
+            "ticket": 1,
+            "nextLevel": 49
+        }
+    },
+    "ExchangePiece": [
+        {
+            "gold": 5000000
+        },
+        {
+            "gold": 10000000
+        },
+        {
+            "gold": 15000000
+        }
+    ],
+    "FragmentData": {
+        "1": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 3000000,
+            "itemWeight": "500:500"
+        },
+        "2": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 6000000,
+            "itemWeight": "1000:1000"
+        },
+        "3": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 10000000,
+            "itemWeight": "800:900"
+        },
+        "4": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 20000000,
+            "itemWeight": "800:800"
+        },
+        "5": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 30000000,
+            "itemWeight": "100:100"
+        },
+        "6": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 60000000,
+            "itemWeight": "10:10"
+        },
+        "7": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 80000000,
+            "itemWeight": "5:5"
+        },
+        "8": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 0,
+            "itemWeight": "0:0"
+        },
+        "9": {
+            "name": "Gold",
+            "item": 1,
+            "itemQuantity": 0,
+            "itemWeight": "0:0"
+        },
+        "10": {
+            "name": "1M Gold",
+            "item": 2,
+            "itemQuantity": 100000000,
+            "itemWeight": "100:100",
+            "fragmentWeight": 53,
+            "fragmentRule": {
+                "coinRequire": 0,
+                "limitPerPlayer": -1,
+                "limitInEvent": -1,
+                "uniqueReward": -1
+            }
+        },
+        "11": {
+            "name": "10M Gold",
+            "item": 2,
+            "itemQuantity": 1000000000,
+            "itemWeight": "50:50",
+            "fragmentWeight": 53,
+            "fragmentRule": {
+                "coinRequire": 200,
+                "limitPerPlayer": -1,
+                "limitInEvent": -1,
+                "uniqueReward": -1
+            }
+        },
+        "12": {
+            "name": "100M Gold",
+            "item": 2,
+            "itemQuantity": 10000000000,
+            "itemWeight": "5:5",
+            "fragmentWeight": 53,
+            "fragmentRule": {
+                "coinRequire": 500,
+                "limitPerPlayer": -1,
+                "limitInEvent": -1,
+                "uniqueReward": -1
+            }
+        },
+        "13": {
+            "name": "Pulsa voucher 100K",
+            "item": 3,
+            "itemWeight": "100:100",
+            "fragmentWeight": 75,
+            "fragmentRule": {
+                "coinRequire": 200,
+                "limitPerPlayer": 1,
+                "limitInEvent": 14,
+                "uniqueReward": -1
+            },
+            "rewardDrop": [
+                "1:10",
+                "2:10",
+                "3:10",
+                "4:10",
+                "5:10",
+                "6:10",
+                "7:10",
+                "8:10",
+                "9:10",
+                "10:10",
+                "11:10",
+                "12:10",
+                "13:10",
+                "14:10"
+            ]
+        },
+        "14": {
+            "name": "Miyako Magic Warmer Plus MCM-606 B",
+            "item": 3,
+            "itemWeight": "50:50",
+            "fragmentWeight": 75,
+            "fragmentRule": {
+                "coinRequire": 500,
+                "limitPerPlayer": 1,
+                "limitInEvent": 14,
+                "uniqueReward": -1
+            },
+            "rewardDrop": [
+                "1:12",
+                "2:12",
+                "3:12",
+                "4:12",
+                "5:12",
+                "6:12",
+                "7:12",
+                "8:12",
+                "9:12",
+                "10:12",
+                "11:12",
+                "12:12",
+                "13:12",
+                "14:12"
+            ]
+        },
+        "15": {
+            "name": "JBL Tune 500 - Blue",
+            "item": 3,
+            "itemWeight": "25:25",
+            "fragmentWeight": 75,
+            "fragmentRule": {
+                "coinRequire": 1800,
+                "limitPerPlayer": 1,
+                "limitInEvent": 3,
+                "uniqueReward": 16
+            },
+            "rewardDrop": [
+                "4:12",
+                "7:12",
+                "11:12"
+            ]
+        },
+        "16": {
+            "name": "CHANGHONG CBC100 Kulkas 1 pintu",
+            "item": 3,
+            "itemWeight": "25:25",
+            "fragmentWeight": 75,
+            "fragmentRule": {
+                "coinRequire": 4200,
+                "limitPerPlayer": 1,
+                "limitInEvent": 2,
+                "uniqueReward": 15
+            },
+            "rewardDrop": [
+                "3:12",
+                "14:12"
+            ]
+        },
+        "17": {
+            "name": "OPPO A74 5G Smartphone 6GB\/128GB",
+            "item": 3,
+            "itemWeight": "25:25",
+            "fragmentWeight": 75,
+            "fragmentRule": {
+                "coinRequire": 15700,
+                "limitPerPlayer": 1,
+                "limitInEvent": 1,
+                "uniqueReward": -1
+            },
+            "rewardDrop": [
+                "13:12"
+            ]
+        },
+        "18": {
+            "name": "Ticket",
+            "item": 4,
+            "itemQuantity": 0,
+            "itemWeight": "0:0"
+        },
+        "19": {
+            "name": "Ticket",
+            "item": 4,
+            "itemQuantity": 0,
+            "itemWeight": "0:0"
+        },
+        "20": {
+            "name": "Ticket",
+            "item": 4,
+            "itemQuantity": 0,
+            "itemWeight": "0:0"
+        }
+    },
+    "DailyMission": {
+        "1": {
+            "type": 3,
+            "mission": [
+                1,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 3,
+                "value": 0,
+                "extra": 604800
+            }
+        },
+        "2": {
+            "type": 3,
+            "mission": [
+                1.2,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 250,
+                "extra": -1
+            }
+        },
+        "3": {
+            "type": 3,
+            "mission": [
+                1.5,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 1,
+                "extra": -1
+            }
+        },
+        "4": {
+            "type": 3,
+            "mission": [
+                2.1,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 50000000,
+                "extra": -1
+            }
+        },
+        "5": {
+            "type": 3,
+            "mission": [
+                1.7,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 500,
+                "extra": -1
+            }
+        },
+        "6": {
+            "type": 3,
+            "mission": [
+                2,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 1,
+                "extra": -1
+            }
+        },
+        "7": {
+            "type": 3,
+            "mission": [
+                3,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 75000000,
+                "extra": -1
+            }
+        },
+        "8": {
+            "type": 3,
+            "mission": [
+                3.2,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 3,
+                "value": 0,
+                "extra": 1209600
+            }
+        },
+        "9": {
+            "type": 3,
+            "mission": [
+                5,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 750,
+                "extra": -1
+            }
+        },
+        "10": {
+            "type": 3,
+            "mission": [
+                2.1,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 2,
+                "extra": -1
+            }
+        },
+        "11": {
+            "type": 3,
+            "mission": [
+                2.9,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 100000000,
+                "extra": -1
+            }
+        },
+        "12": {
+            "type": 3,
+            "mission": [
+                4.8,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 1000,
+                "extra": -1
+            }
+        },
+        "13": {
+            "type": 3,
+            "mission": [
+                6,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 2,
+                "extra": -1
+            }
+        },
+        "14": {
+            "type": 3,
+            "mission": [
+                7,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 125000000,
+                "extra": -1
+            }
+        },
+        "15": {
+            "type": 3,
+            "mission": [
+                3,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 3,
+                "value": 0,
+                "extra": 2419200
+            }
+        },
+        "16": {
+            "type": 3,
+            "mission": [
+                5,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 1200,
+                "extra": -1
+            }
+        },
+        "17": {
+            "type": 3,
+            "mission": [
+                7.5,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 3,
+                "extra": -1
+            }
+        },
+        "18": {
+            "type": 3,
+            "mission": [
+                8,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 250000000,
+                "extra": -1
+            }
+        },
+        "19": {
+            "type": 3,
+            "mission": [
+                5,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 2,
+                "value": 1500,
+                "extra": -1
+            }
+        },
+        "20": {
+            "type": 3,
+            "mission": [
+                10,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 1,
+                "value": 3,
+                "extra": -1
+            }
+        },
+        "21": {
+            "type": 3,
+            "mission": [
+                15,
+                0,
+                0
+            ],
+            "reward": {
+                "id": 0,
+                "value": 500000000,
+                "extra": -1
+            }
+        }
+    },
+    "WeightFish": [
+        {
+            "weight": "0.5:1.5",
+            "numberOfReward": [
+                2,
+                1
+            ]
+        },
+        {
+            "weight": "1.5:2.5",
+            "numberOfReward": [
+                2,
+                1
+            ]
+        },
+        {
+            "weight": "2.5:4",
+            "numberOfReward": [
+                4,
+                2
+            ]
+        }
+    ],
+    "Scripts": {
+        "1": {
+            "kindFish": [
+                {
+                    "kindMove": 1,
+                    "zone": "5:4:3",
+                    "number": "3:4",
+                    "totalFishes": "12:16"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "3:4:5",
+                    "number": 1,
+                    "totalFishes": "5:7"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "1:2",
+                    "number": 1,
+                    "totalFishes": 3
+                }
+            ]
+        },
+        "2": {
+            "kindFish": [
+                {
+                    "kindMove": 1,
+                    "zone": "5:4:3:2",
+                    "number": "3:4",
+                    "totalFishes": "12:16"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "3:4",
+                    "number": 1,
+                    "totalFishes": "4:6"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "1:2",
+                    "number": 1,
+                    "totalFishes": 3
+                }
+            ]
+        },
+        "3": {
+            "kindFish": [
+                {
+                    "kindMove": 1,
+                    "zone": "5:4:3",
+                    "number": "3:4",
+                    "totalFishes": "12:16"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "2:3:4:5",
+                    "number": 1,
+                    "totalFishes": "6:8"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "1:2",
+                    "number": 1,
+                    "totalFishes": 3
+                }
+            ]
+        },
+        "4": {
+            "kindFish": [
+                {
+                    "kindMove": 1,
+                    "zone": "5:4",
+                    "number": "3:4",
+                    "totalFishes": "12:16"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "3:4",
+                    "number": 1,
+                    "totalFishes": "4:6"
+                },
+                {
+                    "kindMove": 2,
+                    "zone": "1:2:3",
+                    "number": 1,
+                    "totalFishes": 3
+                }
+            ]
+        }
+    },
+    "FishByCatchTen": [
+        {
+            "numberOfFish": [
+                5,
+                4,
+                1
+            ]
+        },
+        {
+            "numberOfFish": [
+                6,
+                3,
+                1
+            ]
+        },
+        {
+            "numberOfFish": [
+                4,
+                5,
+                1
+            ]
+        }
+    ]
+}

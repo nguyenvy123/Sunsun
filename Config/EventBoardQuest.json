@@ -1,56 +1,57 @@
 {
     "Misc": {
-        "startTime": 1621530000,
-        "openTime": 1621530000,
-        "finishTime": 1622480399,
+        "startTime": 1630170000,
+        "openTime": 1630170000,
+        "finishTime": 1631033999,
         "limitAppearOfferNormal": 30,
         "limitAppearOfferSale": 30,
         "maxTurn": 20,
-        "freeTurn": 2,
+        "freeTurn": 3,
         "meterTurn": 2,
         "tutorialRolls": "8;5",
         "minGamesToPlay": 2,
         "minTimeToPlay": 1800,
         "boardPerCycle": 5,
         "minSteps": 2,
-        "maxSteps": 12
+        "maxSteps": 12,
+        "daysDetectLastLogin": 3
     },
     "Cycles": [
         {
-            "barMeterPoint": 1000000,
+            "barMeterPoint": 371800,
             "requiredGold": 0,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 100000,
             "goldRatio": 1,
             "boardRewardRatio": 1
         },
         {
-            "barMeterPoint": 10000000,
-            "requiredGold": 30000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 3718000,
+            "requiredGold": 15000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 500000,
             "goldRatio": 5,
             "boardRewardRatio": 5
         },
         {
-            "barMeterPoint": 180000000,
-            "requiredGold": 300000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 34840000,
+            "requiredGold": 150000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 5000000,
-            "goldRatio": 40,
-            "boardRewardRatio": 40
+            "goldRatio": 25,
+            "boardRewardRatio": 25
         },
         {
-            "barMeterPoint": 1800000000,
-            "requiredGold": 3000000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 780000000,
+            "requiredGold": 1500000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 50000000,
-            "goldRatio": 120,
-            "boardRewardRatio": 120
+            "goldRatio": 90,
+            "boardRewardRatio": 90
         }
     ],
     "Offers": [
@@ -58,7 +59,7 @@
             "cost": 10000,
             "cycles": 0,
             "start": 0,
-            "end": 8,
+            "end": 7,
             "delay": 1,
             "turns": 7,
             "gold": 300000000,
@@ -68,7 +69,7 @@
             "cost": 20000,
             "cycles": 1,
             "start": 0,
-            "end": 8,
+            "end": 7,
             "delay": 1,
             "turns": 7,
             "gold": 500000000,
@@ -78,7 +79,7 @@
             "cost": 50000,
             "cycles": 2,
             "start": 0,
-            "end": 8,
+            "end": 7,
             "delay": 1,
             "turns": 7,
             "gold": 1000000000,
@@ -88,7 +89,7 @@
             "cost": 100000,
             "cycles": 3,
             "start": 0,
-            "end": 8,
+            "end": 7,
             "delay": 1,
             "turns": 7,
             "gold": 2500000000,
@@ -97,8 +98,8 @@
         {
             "cost": 10000,
             "cycles": 0,
-            "start": 9,
-            "end": 10,
+            "start": 8,
+            "end": 9,
             "delay": 1,
             "turns": 14,
             "gold": 300000000,
@@ -107,8 +108,8 @@
         {
             "cost": 20000,
             "cycles": 1,
-            "start": 9,
-            "end": 10,
+            "start": 8,
+            "end": 9,
             "delay": 1,
             "turns": 14,
             "gold": 500000000,
@@ -117,8 +118,8 @@
         {
             "cost": 50000,
             "cycles": 2,
-            "start": 9,
-            "end": 10,
+            "start": 8,
+            "end": 9,
             "delay": 1,
             "turns": 14,
             "gold": 1000000000,
@@ -127,8 +128,8 @@
         {
             "cost": 100000,
             "cycles": 3,
-            "start": 9,
-            "end": 10,
+            "start": 8,
+            "end": 9,
             "delay": 1,
             "turns": 14,
             "gold": 2500000000,
@@ -138,82 +139,38 @@
     "Mystery": [
         [
             {
-                "percent": 25,
-                "value": 2100000
-            },
-            {
-                "percent": 30,
-                "value": 4200000
-            },
-            {
-                "percent": 25,
-                "value": 10500000
-            },
-            {
-                "percent": 10,
-                "value": "3:4"
-            },
-            {
-                "percent": 10,
-                "value": -1
-            }
-        ],
-        [
-            {
-                "percent": 30,
-                "value": 2500000
-            },
-            {
-                "percent": 30,
-                "value": 5000000
-            },
-            {
                 "percent": 20,
-                "value": 12500000
+                "value": 1200000
+            },
+            {
+                "percent": 50,
+                "value": 2400000
             },
             {
                 "percent": 10,
-                "value": "3:4"
-            },
-            {
-                "percent": 10,
-                "value": -1
-            }
-        ],
-        [
-            {
-                "percent": 40,
-                "value": 2500000
-            },
-            {
-                "percent": 30,
-                "value": 5000000
-            },
-            {
-                "percent": 15,
-                "value": 12500000
+                "value": 6000000
             },
             {
                 "percent": 5,
                 "value": "3:4"
             },
             {
-                "percent": 10,
+                "percent": 15,
                 "value": -1
             }
         ],
         [
             {
-                "percent": 45,
-                "value": 3000000
+                "percent": 20,
+                "value": 1250000
             },
             {
-                "percent": 25,
-                "value": 6000000
+                "percent": 50,
+                "value": 2500000
             },
             {
                 "percent": 10,
-                "value": 15000000
+                "value": 6250000
             },
             {
                 "percent": 5,
@@ -227,15 +184,59 @@
         [
             {
                 "percent": 50,
-                "value": 3500000
+                "value": 1800000
             },
             {
-                "percent": 25,
-                "value": 7000000
+                "percent": 20,
+                "value": 3600000
+            },
+            {
+                "percent": 10,
+                "value": 9000000
             },
             {
                 "percent": 5,
-                "value": 17500000
+                "value": "3:4"
+            },
+            {
+                "percent": 15,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 50,
+                "value": 1800000
+            },
+            {
+                "percent": 20,
+                "value": 3600000
+            },
+            {
+                "percent": 10,
+                "value": 9000000
+            },
+            {
+                "percent": 5,
+                "value": "3:4"
+            },
+            {
+                "percent": 15,
+                "value": -1
+            }
+        ],
+        [
+            {
+                "percent": 60,
+                "value": 2200000
+            },
+            {
+                "percent": 10,
+                "value": 4400000
+            },
+            {
+                "percent": 10,
+                "value": 11000000
             },
             {
                 "percent": 5,
@@ -357,17 +358,16 @@
                     "percent": 20
                 },
                 {
-                    "damage": 4,
+                    "damage": 5,
                     "percent": 55
                 },
                 {
-                    "damage": 7,
+                    "damage": 10,
                     "percent": 20
                 }
             ],
-            "healthOfWarShip": 9,
-            "ticketEvent": 1,
-            "boardReward": 7500000
+            "healthOfWarShip": 11,
+            "boardReward": 3000000
         },
         {
             "bullets": [
@@ -380,17 +380,16 @@
                     "percent": 35
                 },
                 {
-                    "damage": 4,
+                    "damage": 5,
                     "percent": 40
                 },
                 {
-                    "damage": 7,
+                    "damage": 10,
                     "percent": 15
                 }
             ],
-            "healthOfWarShip": 12,
-            "ticketEvent": 2,
-            "boardReward": 18000000
+            "healthOfWarShip": 17,
+            "boardReward": 7000000
         },
         {
             "bullets": [
@@ -403,17 +402,16 @@
                     "percent": 35
                 },
                 {
-                    "damage": 4,
+                    "damage": 5,
                     "percent": 35
                 },
                 {
-                    "damage": 7,
+                    "damage": 10,
                     "percent": 10
                 }
             ],
             "healthOfWarShip": 20,
-            "ticketEvent": 3,
-            "boardReward": 50000000
+            "boardReward": 12000000
         },
         {
             "bullets": [
@@ -426,17 +424,16 @@
                     "percent": 40
                 },
                 {
-                    "damage": 4,
+                    "damage": 5,
                     "percent": 30
                 },
                 {
-                    "damage": 7,
+                    "damage": 10,
                     "percent": 5
                 }
             ],
-            "healthOfWarShip": 30,
-            "ticketEvent": 4,
-            "boardReward": 120000000
+            "healthOfWarShip": 25,
+            "boardReward": 30000000
         },
         {
             "bullets": [
@@ -449,49 +446,48 @@
                     "percent": 40
                 },
                 {
-                    "damage": 4,
+                    "damage": 5,
                     "percent": 25
                 },
                 {
-                    "damage": 7,
+                    "damage": 10,
                     "percent": 5
                 }
             ],
-            "healthOfWarShip": 45,
-            "ticketEvent": 5,
-            "boardReward": 180000000
+            "healthOfWarShip": 32,
+            "boardReward": 60000000
         }
     ],
     "RollPercent": [
         [
+            0,
             20,
-            30,
-            25,
-            25
+            10,
+            70
         ],
         [
-            20,
-            40,
-            20,
+            5,
+            25,
+            10,
+            60
+        ],
+        [
+            10,
+            30,
+            10,
+            50
+        ],
+        [
+            30,
+            30,
+            10,
+            30
+        ],
+        [
+            35,
+            35,
+            10,
             20
-        ],
-        [
-            25,
-            35,
-            25,
-            15
-        ],
-        [
-            30,
-            35,
-            25,
-            10
-        ],
-        [
-            30,
-            35,
-            25,
-            10
         ]
     ]
 }

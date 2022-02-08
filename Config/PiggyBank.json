@@ -1,0 +1,121 @@
+{
+    "Misc": {
+        "isActive": 1,
+        "minGamesToPlay": 5,
+        "minTimeToPlay": 1800,
+        "lastTimeResetData": 1631543054,
+        "lastTimeResetDataNPU": 1631543054,
+        "idxPiggyStartNPU": 0,
+        "idxPiggyStartPU": 1,
+        "totalPiggyBank": 3
+    },
+    "Piggy": [
+        {
+            "capMaxValue": 2250000000,
+            "cost": 5000,
+            "vPoints": 250
+        },
+        {
+            "capMaxValue": 4500000000,
+            "cost": 10000,
+            "vPoints": 500
+        },
+        {
+            "capMaxValue": 9000000000,
+            "cost": 20000,
+            "vPoints": 1200
+        }
+    ],
+    "GameStructure": {
+        "1000": {
+            "stakeCapRatio": "3200;6400;12800",
+            "piggyRateWin": "20;40;80",
+            "piggyRateLose": "20;40;80"
+        },
+        "1001": {
+            "stakeCapRatio": "1800;3600;7600",
+            "piggyRateWin": "11;22;44",
+            "piggyRateLose": "11;22;44"
+        },
+        "2000": {
+            "stakeCapRatio": "850;1700;3400",
+            "piggyRateWin": "5.75;10.5;21",
+            "piggyRateLose": "5.75;10.5;21"
+        },
+        "2001": {
+            "stakeCapRatio": "450;900;1800",
+            "piggyRateWin": "2.7;5.4;10.8",
+            "piggyRateLose": "2.7;5.4;10.8"
+        },
+        "2002": {
+            "stakeCapRatio": "250;500;1000",
+            "piggyRateWin": "1.45;2.9;5.8",
+            "piggyRateLose": "1.45;2.9;5.8"
+        },
+        "2003": {
+            "stakeCapRatio": "200;400;1000",
+            "piggyRateWin": "1.25;2.5;5",
+            "piggyRateLose": "1.25;2.5;5"
+        },
+        "3000": {
+            "stakeCapRatio": "180;360;720",
+            "piggyRateWin": "1.1;2.2;4.4",
+            "piggyRateLose": "1.1;2.2;4.4"
+        },
+        "3001": {
+            "stakeCapRatio": "100;200;400",
+            "piggyRateWin": "0.6;1.2;2.4",
+            "piggyRateLose": "0.6;1.2;2.4"
+        },
+        "3002": {
+            "stakeCapRatio": "60;120;240",
+            "piggyRateWin": "0.375;0.75;1.5",
+            "piggyRateLose": "0.375;0.75;1.5"
+        },
+        "3003": {
+            "stakeCapRatio": "47;94;188",
+            "piggyRateWin": "0.3;0.6;1.2",
+            "piggyRateLose": "0.3;0.6;1.2"
+        },
+        "4000": {
+            "stakeCapRatio": "35;70;140",
+            "piggyRateWin": "0.22;0.44;0.88",
+            "piggyRateLose": "0.22;0.44;0.88"
+        },
+        "4001": {
+            "stakeCapRatio": "19;38;76",
+            "piggyRateWin": "0.125;0.25;0.5",
+            "piggyRateLose": "0.125;0.25;0.5"
+        },
+        "4002": {
+            "stakeCapRatio": "11.5;21;42",
+            "piggyRateWin": "0.07;0.14;0.28",
+            "piggyRateLose": "0.07;0.14;0.28"
+        },
+        "4003": {
+            "stakeCapRatio": "7.5;15;30",
+            "piggyRateWin": "0.045;0.09;0.18",
+            "piggyRateLose": "0.045;0.09;0.18"
+        },
+        "5000": {
+            "stakeCapRatio": "5;10;20",
+            "piggyRateWin": "0.045;0.09;0.18",
+            "piggyRateLose": "0.045;0.09;0.18"
+        },
+        "5001": {
+            "stakeCapRatio": "3;6;12",
+            "piggyRateWin": "0.045;0.09;0.18",
+            "piggyRateLose": "0.045;0.09;0.18"
+        },
+        "5002": {
+            "stakeCapRatio": "1.5;2;4",
+            "piggyRateWin": "0.045;0.09;0.18",
+            "piggyRateLose": "0.045;0.09;0.18"
+        },
+        "5003": {
+            "stakeCapRatio": "0.5;1;2",
+            "piggyRateWin": "0.045;0.09;0.18",
+            "piggyRateLose": "0.045;0.09;0.18"
+        }
+    }
+}

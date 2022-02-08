@@ -1,0 +1,83 @@
+{
+    "BonusItem": {
+        "7_1000": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 0,
+                    "quantity": 1
+                }
+            ]
+        },
+        "9_300": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 1,
+                    "quantity": 1
+                },
+                {
+                    "bonusType": 6,
+                    "id": 5,
+                    "quantity": 1
+                }
+            ]
+        },
+        "9_500": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 2,
+                    "quantity": 1
+                },
+                {
+                    "bonusType": 6,
+                    "id": 5,
+                    "quantity": 1
+                }
+            ]
+        },
+        "9_1000": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 3,
+                    "quantity": 1
+                },
+                {
+                    "bonusType": 6,
+                    "id": 6,
+                    "quantity": 1
+                }
+            ]
+        },
+        "9_3000": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 4,
+                    "quantity": 1
+                },
+                {
+                    "bonusType": 6,
+                    "id": 7,
+                    "quantity": 1
+                }
+            ]
+        },
+        "9_5000": {
+            "bonus": [
+                {
+                    "bonusType": 11,
+                    "id": 5,
+                    "quantity": 1
+                },
+                {
+                    "bonusType": 6,
+                    "id": 6,
+                    "quantity": 1
+                }
+            ]
+        }
+    }
+}

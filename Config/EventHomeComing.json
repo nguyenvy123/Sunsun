@@ -1,15 +1,16 @@
 {
     "Misc": {
-        "startTime": 1623690000,
-        "openTime": 1623690001,
-        "finishTime": 1624899599,
+        "startTime": 1632243600,
+        "openTime": 1632243601,
+        "finishTime": 1633107599,
         "limitAppearOfferNormal": 30,
         "limitAppearOfferSale": 30,
         "maxTurn": 20,
-        "freeTurn": 3,
+        "freeTurn": 2,
         "meterTurn": 2,
         "minGamesToPlay": 2,
-        "boardPerCycle": 5
+        "boardPerCycle": 5,
+        "daysDetectLastLogin": 3
     },
     "BonusPurchase": [
         {
@@ -98,81 +99,81 @@
             "cost": 10000,
             "cycles": 0,
             "start": 0,
-            "end": 11,
+            "end": 4,
             "delay": 1,
             "turns": 7,
             "gold": 300000000,
             "vPoint": 100
         },
         {
-            "cost": 20000,
+            "cost": 10000,
             "cycles": 1,
             "start": 0,
-            "end": 11,
+            "end": 4,
+            "delay": 1,
+            "turns": 7,
+            "gold": 400000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 2,
+            "start": 0,
+            "end": 4,
             "delay": 1,
             "turns": 7,
             "gold": 500000000,
-            "vPoint": 300
+            "vPoint": 200
         },
         {
             "cost": 50000,
-            "cycles": 2,
+            "cycles": 3,
             "start": 0,
-            "end": 11,
+            "end": 4,
             "delay": 1,
             "turns": 7,
             "gold": 1000000000,
             "vPoint": 500
-        },
-        {
-            "cost": 100000,
-            "cycles": 3,
-            "start": 0,
-            "end": 11,
-            "delay": 1,
-            "turns": 7,
-            "gold": 2500000000,
-            "vPoint": 1000
         },
         {
             "cost": 10000,
             "cycles": 0,
-            "start": 12,
-            "end": 13,
+            "start": 5,
+            "end": 7,
             "delay": 1,
             "turns": 14,
             "gold": 300000000,
             "vPoint": 100
         },
         {
-            "cost": 20000,
+            "cost": 10000,
             "cycles": 1,
-            "start": 12,
-            "end": 13,
+            "start": 5,
+            "end": 7,
+            "delay": 1,
+            "turns": 14,
+            "gold": 400000000,
+            "vPoint": 100
+        },
+        {
+            "cost": 20000,
+            "cycles": 2,
+            "start": 5,
+            "end": 7,
             "delay": 1,
             "turns": 14,
             "gold": 500000000,
-            "vPoint": 300
+            "vPoint": 200
         },
         {
             "cost": 50000,
-            "cycles": 2,
-            "start": 12,
-            "end": 13,
+            "cycles": 3,
+            "start": 5,
+            "end": 7,
             "delay": 1,
             "turns": 14,
             "gold": 1000000000,
             "vPoint": 500
-        },
-        {
-            "cost": 100000,
-            "cycles": 3,
-            "start": 12,
-            "end": 13,
-            "delay": 1,
-            "turns": 14,
-            "gold": 2500000000,
-            "vPoint": 1000
         }
     ],
     "Board": [
@@ -181,47 +182,47 @@
             "boardIndex": [
                 {
                     "map": 1,
-                    "reward": 13600000,
-                    "minMove": 0,
-                    "maxMove": 3,
-                    "goHomeImmediate": 7,
-                    "GoldImmediate": 4500000,
-                    "ratioGoldCell": 1
-                },
-                {
-                    "map": 2,
-                    "reward": 19500000,
+                    "reward": 14400000,
                     "minMove": 1,
-                    "maxMove": 7,
-                    "goHomeImmediate": 14,
+                    "maxMove": 3,
+                    "goHomeImmediate": 4,
                     "GoldImmediate": 4800000,
                     "ratioGoldCell": 1
                 },
                 {
-                    "map": 3,
-                    "reward": 21300000,
+                    "map": 2,
+                    "reward": 20500000,
                     "minMove": 1,
-                    "maxMove": 14,
-                    "goHomeImmediate": 21,
-                    "GoldImmediate": 5300000,
+                    "maxMove": 7,
+                    "goHomeImmediate": 8,
+                    "GoldImmediate": 5100000,
+                    "ratioGoldCell": 1
+                },
+                {
+                    "map": 3,
+                    "reward": 24700000,
+                    "minMove": 1,
+                    "maxMove": 12,
+                    "goHomeImmediate": 14,
+                    "GoldImmediate": 6100000,
                     "ratioGoldCell": 1
                 },
                 {
                     "map": 4,
-                    "reward": 28000000,
+                    "reward": 31200000,
                     "minMove": 1,
-                    "maxMove": 35,
-                    "goHomeImmediate": 28,
-                    "GoldImmediate": 5600000,
+                    "maxMove": 24,
+                    "goHomeImmediate": 29,
+                    "GoldImmediate": 6200000,
                     "ratioGoldCell": 1
                 },
                 {
                     "map": 5,
-                    "reward": 38400000,
+                    "reward": 45600000,
                     "minMove": 1,
-                    "maxMove": 53,
-                    "goHomeImmediate": 39,
-                    "GoldImmediate": 6400000,
+                    "maxMove": 45,
+                    "goHomeImmediate": 54,
+                    "GoldImmediate": 7600000,
                     "ratioGoldCell": 1
                 }
             ]
@@ -231,47 +232,47 @@
             "boardIndex": [
                 {
                     "map": 1,
-                    "reward": 54700000,
-                    "minMove": 0,
+                    "reward": 57600000,
+                    "minMove": 1,
                     "maxMove": 3,
-                    "goHomeImmediate": 7,
-                    "GoldImmediate": 18200000,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 19200000,
                     "ratioGoldCell": 4
                 },
                 {
                     "map": 2,
-                    "reward": 78100000,
+                    "reward": 82300000,
                     "minMove": 1,
                     "maxMove": 7,
-                    "goHomeImmediate": 14,
-                    "GoldImmediate": 19500000,
+                    "goHomeImmediate": 8,
+                    "GoldImmediate": 20500000,
                     "ratioGoldCell": 4
                 },
                 {
                     "map": 3,
-                    "reward": 85200000,
+                    "reward": 99000000,
                     "minMove": 1,
-                    "maxMove": 14,
-                    "goHomeImmediate": 21,
-                    "GoldImmediate": 21300000,
+                    "maxMove": 12,
+                    "goHomeImmediate": 14,
+                    "GoldImmediate": 24700000,
                     "ratioGoldCell": 4
                 },
                 {
                     "map": 4,
-                    "reward": 112300000,
+                    "reward": 124800000,
                     "minMove": 1,
-                    "maxMove": 35,
-                    "goHomeImmediate": 28,
-                    "GoldImmediate": 22400000,
+                    "maxMove": 24,
+                    "goHomeImmediate": 29,
+                    "GoldImmediate": 24900000,
                     "ratioGoldCell": 4
                 },
                 {
                     "map": 5,
-                    "reward": 153700000,
+                    "reward": 182500000,
                     "minMove": 1,
-                    "maxMove": 53,
-                    "goHomeImmediate": 39,
-                    "GoldImmediate": 25600000,
+                    "maxMove": 45,
+                    "goHomeImmediate": 54,
+                    "GoldImmediate": 30400000,
                     "ratioGoldCell": 4
                 }
             ]
@@ -281,48 +282,48 @@
             "boardIndex": [
                 {
                     "map": 1,
-                    "reward": 273000000,
-                    "minMove": 0,
+                    "reward": 172000000,
+                    "minMove": 1,
                     "maxMove": 3,
-                    "goHomeImmediate": 7,
-                    "GoldImmediate": 91000000,
-                    "ratioGoldCell": 20
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 57000000,
+                    "ratioGoldCell": 12
                 },
                 {
                     "map": 2,
-                    "reward": 390000000,
+                    "reward": 247000000,
                     "minMove": 1,
                     "maxMove": 7,
-                    "goHomeImmediate": 14,
-                    "GoldImmediate": 97000000,
-                    "ratioGoldCell": 20
+                    "goHomeImmediate": 8,
+                    "GoldImmediate": 61000000,
+                    "ratioGoldCell": 12
                 },
                 {
                     "map": 3,
-                    "reward": 426000000,
+                    "reward": 297000000,
                     "minMove": 1,
-                    "maxMove": 14,
-                    "goHomeImmediate": 21,
-                    "GoldImmediate": 106000000,
-                    "ratioGoldCell": 20
+                    "maxMove": 12,
+                    "goHomeImmediate": 14,
+                    "GoldImmediate": 74000000,
+                    "ratioGoldCell": 12
                 },
                 {
                     "map": 4,
-                    "reward": 561000000,
+                    "reward": 374000000,
                     "minMove": 1,
-                    "maxMove": 35,
-                    "goHomeImmediate": 28,
-                    "GoldImmediate": 112000000,
-                    "ratioGoldCell": 20
+                    "maxMove": 24,
+                    "goHomeImmediate": 29,
+                    "GoldImmediate": 74000000,
+                    "ratioGoldCell": 12
                 },
                 {
                     "map": 5,
-                    "reward": 768000000,
+                    "reward": 547000000,
                     "minMove": 1,
-                    "maxMove": 53,
-                    "goHomeImmediate": 39,
-                    "GoldImmediate": 128000000,
-                    "ratioGoldCell": 20
+                    "maxMove": 45,
+                    "goHomeImmediate": 54,
+                    "GoldImmediate": 91000000,
+                    "ratioGoldCell": 12
                 }
             ]
         },
@@ -331,47 +332,47 @@
             "boardIndex": [
                 {
                     "map": 1,
-                    "reward": 820000000,
-                    "minMove": 0,
+                    "reward": 864000000,
+                    "minMove": 1,
                     "maxMove": 3,
-                    "goHomeImmediate": 7,
-                    "GoldImmediate": 273000000,
+                    "goHomeImmediate": 4,
+                    "GoldImmediate": 288000000,
                     "ratioGoldCell": 60
                 },
                 {
                     "map": 2,
-                    "reward": 1172000000,
+                    "reward": 1235000000,
                     "minMove": 1,
                     "maxMove": 7,
-                    "goHomeImmediate": 14,
-                    "GoldImmediate": 293000000,
+                    "goHomeImmediate": 8,
+                    "GoldImmediate": 308000000,
                     "ratioGoldCell": 60
                 },
                 {
                     "map": 3,
-                    "reward": 1278000000,
+                    "reward": 1486000000,
                     "minMove": 1,
-                    "maxMove": 14,
-                    "goHomeImmediate": 21,
-                    "GoldImmediate": 319000000,
+                    "maxMove": 12,
+                    "goHomeImmediate": 14,
+                    "GoldImmediate": 371000000,
                     "ratioGoldCell": 60
                 },
                 {
                     "map": 4,
-                    "reward": 1684000000,
+                    "reward": 1872000000,
                     "minMove": 1,
-                    "maxMove": 35,
-                    "goHomeImmediate": 28,
-                    "GoldImmediate": 336000000,
+                    "maxMove": 24,
+                    "goHomeImmediate": 29,
+                    "GoldImmediate": 374000000,
                     "ratioGoldCell": 60
                 },
                 {
                     "map": 5,
-                    "reward": 2306000000,
+                    "reward": 2738000000,
                     "minMove": 1,
-                    "maxMove": 53,
-                    "goHomeImmediate": 39,
-                    "GoldImmediate": 384000000,
+                    "maxMove": 45,
+                    "goHomeImmediate": 54,
+                    "GoldImmediate": 456000000,
                     "ratioGoldCell": 60
                 }
             ]
@@ -379,31 +380,31 @@
     ],
     "Cycle": [
         {
-            "barMeterPoint": 1000000,
+            "barMeterPoint": 750000,
             "requiredGold": 0,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 100000
         },
         {
-            "barMeterPoint": 10000000,
-            "requiredGold": 30000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 7500000,
+            "requiredGold": 15000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 500000
         },
         {
-            "barMeterPoint": 180000000,
-            "requiredGold": 300000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 69000000,
+            "requiredGold": 150000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 5000000
         },
         {
-            "barMeterPoint": 1800000000,
-            "requiredGold": 3000000000,
-            "winGoldRate": 0.05,
-            "loseGoldRate": 0.01,
+            "barMeterPoint": 1500000000,
+            "requiredGold": 1500000000,
+            "winGoldRate": 0.026,
+            "loseGoldRate": 0.006,
             "minStake": 50000000
         }
     ],
@@ -429,8 +430,8 @@
             "quantity": 3600000
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -482,7 +483,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 5,
@@ -513,20 +514,20 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
-        },
-        {
             "type": 1,
             "quantity": 1200000
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
+        },
+        {
+            "type": 1,
+            "quantity": 1200000
         },
         {
             "type": 4,
@@ -609,8 +610,8 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 1,
+            "quantity": 1200000
         },
         {
             "type": 1,
@@ -642,7 +643,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -650,7 +651,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -751,39 +752,39 @@
             "quantity": 3960000
         },
         {
+            "type": 1,
+            "quantity": 2640000
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": 4,
+            "quantity": 0
+        },
+        {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
-            "type": -1,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 5,
+            "type": 4,
             "quantity": 0
         },
         {
@@ -835,8 +836,8 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 1,
@@ -847,8 +848,8 @@
             "quantity": 2640000
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -903,12 +904,12 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 5,
@@ -964,7 +965,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -976,7 +977,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 5,
@@ -1066,19 +1067,19 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
             "quantity": 4320000
         },
         {
-            "type": 1,
-            "quantity": 4320000
+            "type": 2,
+            "quantity": 1
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 1,
+            "quantity": 2880000
         },
         {
             "type": -1,
@@ -1097,8 +1098,8 @@
             "quantity": 0
         },
         {
-            "type": 1,
-            "quantity": 2880000
+            "type": 5,
+            "quantity": 0
         },
         {
             "type": 5,
@@ -1126,7 +1127,7 @@
         },
         {
             "type": 1,
-            "quantity": 1440000
+            "quantity": 2880000
         },
         {
             "type": 1,
@@ -1154,7 +1155,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -1174,18 +1175,10 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 5,
             "quantity": 0
         },
         {
@@ -1197,12 +1190,20 @@
             "quantity": 0
         },
         {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1
+        },
+        {
             "type": 5,
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1218,6 +1219,18 @@
         },
         {
             "type": 1,
+            "quantity": 4320000
+        },
+        {
+            "type": 7,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 1440000
+        },
+        {
+            "type": 1,
             "quantity": 1440000
         },
         {
@@ -1225,20 +1238,8 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 7,
-            "quantity": 0
-        },
-        {
-            "type": 5,
-            "quantity": 0
+            "type": 1,
+            "quantity": 4320000
         },
         {
             "type": -1,
@@ -1257,7 +1258,7 @@
             "quantity": 0
         },
         {
-            "type": 5,
+            "type": 0,
             "quantity": 0
         },
         {
@@ -1265,40 +1266,40 @@
             "quantity": 0
         },
         {
-            "type": 1,
-            "quantity": 1440000
+            "type": 0,
+            "quantity": 0
+        },
+        {
+            "type": 5,
+            "quantity": 0
         },
         {
             "type": 1,
             "quantity": 2880000
-        },
-        {
-            "type": 1,
-            "quantity": 4320000
         },
         {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
-        },
-        {
             "type": 1,
-            "quantity": 1440000
-        },
-        {
-            "type": 1,
-            "quantity": 1440000
+            "quantity": 2880000
         },
         {
             "type": 1,
             "quantity": 2880000
         },
         {
-            "type": 5,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
+        },
+        {
+            "type": 2,
+            "quantity": 1
+        },
+        {
+            "type": 1,
+            "quantity": 2880000
         },
         {
             "type": 4,
@@ -1333,8 +1334,8 @@
             "quantity": 0
         },
         {
-            "type": 2,
-            "quantity": 2
+            "type": 1,
+            "quantity": 4320000
         },
         {
             "type": -1,
@@ -1379,8 +1380,8 @@
             "quantity": 0
         },
         {
-            "type": 2,
-            "quantity": 2
+            "type": 4,
+            "quantity": 0
         },
         {
             "type": 1,
@@ -1391,8 +1392,8 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 5,
@@ -1403,8 +1404,8 @@
             "quantity": 3120000
         },
         {
-            "type": 2,
-            "quantity": 2
+            "type": 4,
+            "quantity": 0
         },
         {
             "type": -1,
@@ -1480,7 +1481,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -1491,8 +1492,8 @@
             "quantity": 3120000
         },
         {
-            "type": 1,
-            "quantity": 3120000
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 5,
@@ -1539,28 +1540,28 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1572,38 +1573,10 @@
         },
         {
             "type": 1,
-            "quantity": 1560000
+            "quantity": 4680000
         },
         {
             "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 1,
-            "quantity": 3120000
-        },
-        {
-            "type": 0,
-            "quantity": 0
-        },
-        {
-            "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": 4,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 4,
             "quantity": 0
         },
         {
@@ -1615,19 +1588,15 @@
             "quantity": 4680000
         },
         {
-            "type": 2,
-            "quantity": 2
-        },
-        {
             "type": 0,
             "quantity": 0
         },
         {
-            "type": 1,
-            "quantity": 1560000
+            "type": 5,
+            "quantity": 0
         },
         {
-            "type": -1,
+            "type": 4,
             "quantity": 0
         },
         {
@@ -1635,7 +1604,7 @@
             "quantity": 0
         },
         {
-            "type": -1,
+            "type": 4,
             "quantity": 0
         },
         {
@@ -1643,8 +1612,20 @@
             "quantity": 3120000
         },
         {
-            "type": -1,
-            "quantity": 0
+            "type": 1,
+            "quantity": 1560000
+        },
+        {
+            "type": 1,
+            "quantity": 1560000
+        },
+        {
+            "type": 1,
+            "quantity": 3120000
+        },
+        {
+            "type": 1,
+            "quantity": 4680000
         },
         {
             "type": -1,
@@ -1655,8 +1636,28 @@
             "quantity": 0
         },
         {
-            "type": 0,
+            "type": -1,
             "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1710,7 +1711,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 6,
@@ -1718,7 +1719,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": 1,
@@ -1734,7 +1735,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1754,7 +1755,7 @@
         },
         {
             "type": 2,
-            "quantity": 2
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1765,31 +1766,7 @@
             "quantity": 0
         },
         {
-            "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 1,
-            "quantity": 5040000
-        },
-        {
-            "type": 3,
-            "quantity": 2
-        },
-        {
-            "type": 1,
-            "quantity": 5040000
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 5,
+            "type": 4,
             "quantity": 0
         },
         {
@@ -1798,18 +1775,22 @@
         },
         {
             "type": 1,
-            "quantity": 1200000
+            "quantity": 3360000
+        },
+        {
+            "type": 5,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 3360000
         },
         {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": 5,
+            "type": 4,
             "quantity": 0
         },
         {
@@ -1825,12 +1806,32 @@
             "quantity": 0
         },
         {
+            "type": 2,
+            "quantity": 1
+        },
+        {
+            "type": 2,
+            "quantity": 1
+        },
+        {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 0,
+            "type": 1,
+            "quantity": 1200000
+        },
+        {
+            "type": -1,
             "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
@@ -1853,20 +1854,20 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": -1,
             "quantity": 0
         },
         {
-            "type": 5,
-            "quantity": 0
+            "type": 1,
+            "quantity": 3360000
         },
         {
-            "type": 1,
-            "quantity": 1200000
+            "type": 5,
+            "quantity": 0
         },
         {
             "type": 1,
@@ -1874,6 +1875,34 @@
         },
         {
             "type": 1,
+            "quantity": 3360000
+        },
+        {
+            "type": 5,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 3360000
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": -1,
+            "quantity": 0
+        },
+        {
+            "type": 1,
+            "quantity": 5040000
+        },
+        {
+            "type": 1,
+            "quantity": 1680000
+        },
+        {
+            "type": 1,
             "quantity": 1200000
         },
         {
@@ -1881,44 +1910,16 @@
             "quantity": 5040000
         },
         {
-            "type": 5,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": -1,
-            "quantity": 0
-        },
-        {
-            "type": 1,
-            "quantity": 1680000
-        },
-        {
-            "type": 1,
-            "quantity": 1200000
-        },
-        {
-            "type": 1,
-            "quantity": 1200000
-        },
-        {
-            "type": 2,
-            "quantity": 2
-        },
-        {
-            "type": 1,
-            "quantity": 1200000
-        },
-        {
             "type": 1,
             "quantity": 1200000
         },
         {
             "type": 1,
             "quantity": 1680000
+        },
+        {
+            "type": 1,
+            "quantity": 5040000
         },
         {
             "type": -1,
@@ -1929,8 +1930,8 @@
             "quantity": 0
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 3,
@@ -1941,8 +1942,8 @@
             "quantity": 2
         },
         {
-            "type": 0,
-            "quantity": 0
+            "type": 2,
+            "quantity": 1
         },
         {
             "type": 7,

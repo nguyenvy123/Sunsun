@@ -1,0 +1,87 @@
+{
+    "Misc": {
+        "smallDelayTime": 10,
+        "smallScanSize": 2000,
+        "startBigScanningTime": 7200,
+        "endBigScanningTime": 18000,
+        "firstID": 100000000,
+        "lastID": 118009495,
+        "maxNotInteractionTime": 7776000,
+        "goldThreshold": 50000,
+        "forceUpdateIndex": true
+    },
+    "UModelClass": [
+        {
+            "type": 0,
+            "clazz": "UVoucherModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UFirstPayModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UIAPModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UMailModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UQuestModel"
+        },
+        {
+            "type": 0,
+            "clazz": "USafeBoxModel"
+        },
+        {
+            "type": 0,
+            "clazz": "USupportModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UTrackingModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UDecorModel"
+        },
+        {
+            "type": 0,
+            "clazz": "PaymentStatsModel"
+        },
+        {
+            "type": 0,
+            "clazz": "BoardStatsModel"
+        },
+        {
+            "type": 0,
+            "clazz": "ActionStatsModel"
+        },
+        {
+            "type": 1,
+            "clazz": "UESummerGreenModel"
+        },
+        {
+            "type": 1,
+            "clazz": "UESmashEggsModel"
+        },
+        {
+            "type": 0,
+            "clazz": "ULogGoldModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UAvatarModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UOfferNetModel"
+        },
+        {
+            "type": 0,
+            "clazz": "UTripleOfferModel"
+        }
+    ]
+}

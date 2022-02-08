@@ -1,8 +1,8 @@
 {
     "Misc": {
-        "startTime": 1625763601,
-        "endTime": 1626973199,
-        "openTime": 1625763601,
+        "startTime": 1628096400,
+        "endTime": 1629305999,
+        "openTime": 1628096400,
         "ticketConversation": 22800000,
         "ticketMode_1": 1,
         "ticketMode_10": 10,
@@ -212,82 +212,82 @@
             "nextLevel": 35
         },
         "35": {
-            "requiredPoint": 600000000,
+            "requiredPoint": 700000000,
             "ticket": 1,
             "nextLevel": 36
         },
         "36": {
-            "requiredPoint": 650000000,
+            "requiredPoint": 850000000,
             "ticket": 1,
             "nextLevel": 37
         },
         "37": {
-            "requiredPoint": 700000000,
+            "requiredPoint": 1000000000,
             "ticket": 1,
             "nextLevel": 38
         },
         "38": {
-            "requiredPoint": 750000000,
+            "requiredPoint": 1150000000,
             "ticket": 1,
             "nextLevel": 39
         },
         "39": {
-            "requiredPoint": 800000000,
+            "requiredPoint": 1300000000,
             "ticket": 1,
             "nextLevel": 40
         },
         "40": {
-            "requiredPoint": 900000000,
+            "requiredPoint": 1450000000,
             "ticket": 1,
             "nextLevel": 41
         },
         "41": {
-            "requiredPoint": 1000000000,
+            "requiredPoint": 1600000000,
             "ticket": 1,
             "nextLevel": 42
         },
         "42": {
-            "requiredPoint": 1100000000,
+            "requiredPoint": 2000000000,
             "ticket": 1,
             "nextLevel": 43
         },
         "43": {
-            "requiredPoint": 1200000000,
+            "requiredPoint": 2400000000,
             "ticket": 1,
             "nextLevel": 44
         },
         "44": {
-            "requiredPoint": 1300000000,
+            "requiredPoint": 2800000000,
             "ticket": 1,
             "nextLevel": 45
         },
         "45": {
-            "requiredPoint": 1400000000,
+            "requiredPoint": 3200000000,
             "ticket": 1,
             "nextLevel": 46
         },
         "46": {
-            "requiredPoint": 1500000000,
+            "requiredPoint": 3600000000,
             "ticket": 1,
             "nextLevel": 47
         },
         "47": {
-            "requiredPoint": 1600000000,
+            "requiredPoint": 4000000000,
             "ticket": 1,
             "nextLevel": 48
         },
         "48": {
-            "requiredPoint": 1700000000,
+            "requiredPoint": 4400000000,
             "ticket": 1,
             "nextLevel": 49
         },
         "49": {
-            "requiredPoint": 1800000000,
+            "requiredPoint": 4800000000,
             "ticket": 1,
             "nextLevel": 50
         },
         "50": {
-            "requiredPoint": 2000000000,
+            "requiredPoint": 5200000000,
             "ticket": 1,
             "nextLevel": 41
         }
@@ -446,7 +446,7 @@
             }
         },
         "12": {
-            "item": "Pulsa Voucher 50k",
+            "item": "Pulsa Voucher 100k",
             "quantity": 1,
             "typeReward": 2,
             "hashFactor": 1000,
@@ -455,27 +455,24 @@
             "valueRate": 1,
             "finalFragmentRule": {
                 "limitPlayer": 1,
-                "limitEvent": 14,
+                "limitEvent": 11,
                 "constrain": [
-                    "150:1:10:10",
-                    "150:2:10:10",
-                    "150:3:10:10",
-                    "150:4:10:10",
-                    "150:5:10:10",
-                    "150:6:10:10",
-                    "150:7:10:10",
-                    "150:8:10:10",
-                    "150:9:10:10",
-                    "150:10:10:10",
-                    "150:11:10:10",
-                    "150:12:9:10",
-                    "150:13:10:10",
-                    "150:14:10:10"
+                    "300:1:10:10",
+                    "300:3:10:10",
+                    "300:4:10:10",
+                    "300:6:10:10",
+                    "300:7:10:10",
+                    "300:8:10:10",
+                    "300:10:10:10",
+                    "300:11:10:10",
+                    "300:12:10:10",
+                    "300:13:10:10",
+                    "300:14:10:10"
                 ]
             }
         },
         "13": {
-            "item": "Pulsa Voucher 100k",
+            "item": "Kipas Angin Tower Krisbow",
             "quantity": 1,
             "typeReward": 2,
             "hashFactor": 1000,
@@ -484,27 +481,14 @@
             "valueRate": 2,
             "finalFragmentRule": {
                 "limitPlayer": 1,
-                "limitEvent": 14,
+                "limitEvent": 1,
                 "constrain": [
-                    "300:1:10:10",
-                    "300:2:10:10",
-                    "300:3:10:10",
-                    "300:4:10:10",
-                    "300:5:10:10",
-                    "300:6:10:10",
-                    "300:7:10:10",
-                    "300:8:10:10",
-                    "300:9:10:10",
-                    "300:10:10:10",
-                    "300:11:10:10",
-                    "300:12:9:10",
-                    "300:13:10:10",
-                    "300:14:10:10"
+                    "2500:2:10:10"
                 ]
             }
         },
         "14": {
-            "item": "XIAOMI MI TWS \bEarphones 2",
+            "item": "Philips Essential Airfryer HD9200\/90",
             "quantity": 1,
             "typeReward": 2,
             "hashFactor": 1000,
@@ -513,15 +497,14 @@
             "valueRate": 3,
             "finalFragmentRule": {
                 "limitPlayer": 1,
-                "limitEvent": 2,
+                "limitEvent": 1,
                 "constrain": [
-                    "1200:2:11:10",
-                    "1500:9:11:10"
+                    "4500:9:11:10"
                 ]
             }
         },
         "15": {
-            "item": "Oxone Coffee Maker Standard Bl",
+            "item": "Xiaomi Dreame D9 Robot Cleaner",
             "quantity": 1,
             "typeReward": 2,
             "hashFactor": 1000,
@@ -530,15 +513,14 @@
             "valueRate": 4,
             "finalFragmentRule": {
                 "limitPlayer": 1,
-                "limitEvent": 2,
+                "limitEvent": 1,
                 "constrain": [
-                    "2500:4:11:10",
-                    "3000:10:11:10"
+                    "8000:5:11:10"
                 ]
             }
         },
         "16": {
-            "item": "ASUS VivoBook 14 M415DA 8GB",
+            "item": "SAMSUNG GALAXY A72 RAM 8\/128GB",
             "quantity": 1,
             "typeReward": 2,
             "hashFactor": 1000,
@@ -549,7 +531,7 @@
                 "limitPlayer": 1,
                 "limitEvent": 1,
                 "constrain": [
-                    "20000:12:12:10"
+                    "20000:13:12:10"
                 ]
             }
         }

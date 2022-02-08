@@ -1,68 +1,68 @@
 {
     "Misc": {
-        "openTime": 1629824400,
-        "startTime": 1629824400,
-        "finishTime": 1630429199,
+        "openTime": 1644253200,
+        "startTime": 1644253200,
+        "finishTime": 1644857999,
         "ticketPrice": 600000
     },
     "Challenge": [
         {
             "challengeId": 0,
             "threshold": 9,
-            "goldReward": 1200000,
+            "goldReward": 2400000,
             "ticketReward": 3
         },
         {
             "challengeId": 3,
             "threshold": 4,
-            "goldReward": 1500000,
+            "goldReward": 3000000,
             "ticketReward": 5
         },
         {
             "challengeId": 4,
             "threshold": 3,
-            "goldReward": 3000000,
+            "goldReward": 6000000,
             "ticketReward": 7
         },
         {
             "challengeId": 1,
             "threshold": 3,
-            "goldReward": 4000000,
+            "goldReward": 8000000,
             "ticketReward": 4
         },
         {
             "challengeId": 5,
             "threshold": 18,
-            "goldReward": 5000000,
+            "goldReward": 10000000,
             "ticketReward": 6
         },
         {
             "challengeId": 2,
             "threshold": 4,
-            "goldReward": 7500000,
+            "goldReward": 15000000,
             "ticketReward": 8
         }
     ],
     "Offers": [
         {
             "cost": 10000,
-            "gold": 694400000,
-            "vPoint": 347,
-            "rate": 2.17,
+            "gold": 4800000000,
+            "vPoint": 1200,
+            "rate": 15,
             "quantityAvailable": 1
         },
         {
             "cost": 20000,
-            "gold": 1971200000,
-            "vPoint": 986,
-            "rate": 3.08,
+            "gold": 10240000000,
+            "vPoint": 2560,
+            "rate": 16,
             "quantityAvailable": 2
         },
         {
             "cost": 100000,
-            "gold": 14240000000,
-            "vPoint": 7120,
-            "rate": 4.45,
+            "gold": 54400000000,
+            "vPoint": 13600,
+            "rate": 17,
             "quantityAvailable": 3
         }
     ]

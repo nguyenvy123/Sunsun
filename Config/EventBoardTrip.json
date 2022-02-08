@@ -1,16 +1,17 @@
 {
     "Misc": {
-        "startTime": 1618966800,
-        "openTime": 1618966800,
-        "finishTime": 1619629199,
+        "startTime": 1627174800,
+        "openTime": 1627174800,
+        "finishTime": 1628096399,
         "limitAppearOfferNormal": 30,
         "limitAppearOfferSale": 30,
         "maxTurn": 20,
-        "turnsPerFullMeter": 2
+        "turnsPerFullMeter": 2,
+        "daysDetectLastLogin": 3
     },
     "Cycles": [
         {
-            "barMeterPoint": 1000000,
+            "barMeterPoint": 2200000,
             "requiredGold": 0,
             "winGoldRate": 0.05,
             "loseGoldRate": 0.01,
@@ -18,11 +19,11 @@
             "goldRatio": 1,
             "heartRatio": 10,
             "chapterReward": [
-                28500000,
-                66000000,
-                141000000
+                12540000,
+                29100000,
+                63000000
             ],
-            "grandReward": 235500000
+            "grandReward": 100000000
         },
         {
             "barMeterPoint": 10000000,
@@ -30,14 +31,14 @@
             "winGoldRate": 0.05,
             "loseGoldRate": 0.01,
             "minStake": 500000,
-            "goldRatio": 8,
+            "goldRatio": 4,
             "heartRatio": 40,
             "chapterReward": [
-                76000000,
-                176000000,
-                376000000
+                25100000,
+                58100000,
+                124100000
             ],
-            "grandReward": 628000000
+            "grandReward": 200000000
         },
         {
             "barMeterPoint": 120000000,
@@ -48,14 +49,14 @@
             "goldRatio": 25,
             "heartRatio": 100,
             "chapterReward": [
-                273600000,
-                634000000,
-                1354000000
+                246300000,
+                571000000,
+                1219000000
             ],
-            "grandReward": 2261000000
+            "grandReward": 2000000000
         },
         {
-            "barMeterPoint": 2400000000,
+            "barMeterPoint": 1200000000,
             "requiredGold": 3000000000,
             "winGoldRate": 0.05,
             "loseGoldRate": 0.01,
@@ -63,11 +64,11 @@
             "goldRatio": 50,
             "heartRatio": 200,
             "chapterReward": [
-                1824000000,
-                4224000000,
-                9024000000
+                684000000,
+                1584000000,
+                3384000000
             ],
-            "grandReward": 15072000000
+            "grandReward": 5000000000
         }
     ],
     "Offers": [
@@ -75,7 +76,7 @@
             "cost": 5000,
             "cycles": 0,
             "start": 0,
-            "end": 5,
+            "end": 8,
             "delay": 1,
             "turns": 7,
             "gold": 80000000,
@@ -85,37 +86,37 @@
             "cost": 10000,
             "cycles": 1,
             "start": 0,
-            "end": 5,
+            "end": 8,
             "delay": 1,
             "turns": 7,
             "gold": 160000000,
             "vPoint": 160
         },
         {
-            "cost": 20000,
+            "cost": 50000,
             "cycles": 2,
             "start": 0,
-            "end": 5,
-            "delay": 1,
-            "turns": 7,
-            "gold": 320000000,
-            "vPoint": 320
-        },
-        {
-            "cost": 50000,
-            "cycles": 3,
-            "start": 0,
-            "end": 5,
+            "end": 8,
             "delay": 1,
             "turns": 7,
             "gold": 800000000,
             "vPoint": 800
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 0,
+            "end": 8,
+            "delay": 1,
+            "turns": 7,
+            "gold": 1600000000,
+            "vPoint": 1600
         },
         {
             "cost": 5000,
             "cycles": 0,
-            "start": 6,
-            "end": 7,
+            "start": 9,
+            "end": 10,
             "delay": 1,
             "turns": 14,
             "gold": 80000000,
@@ -124,32 +125,32 @@
         {
             "cost": 10000,
             "cycles": 1,
-            "start": 6,
-            "end": 7,
+            "start": 9,
+            "end": 10,
             "delay": 1,
             "turns": 14,
             "gold": 160000000,
             "vPoint": 160
         },
         {
-            "cost": 20000,
-            "cycles": 2,
-            "start": 6,
-            "end": 7,
-            "delay": 1,
-            "turns": 14,
-            "gold": 320000000,
-            "vPoint": 320
-        },
-        {
             "cost": 50000,
-            "cycles": 3,
-            "start": 6,
-            "end": 7,
+            "cycles": 2,
+            "start": 9,
+            "end": 10,
             "delay": 1,
             "turns": 14,
             "gold": 800000000,
             "vPoint": 800
+        },
+        {
+            "cost": 100000,
+            "cycles": 3,
+            "start": 9,
+            "end": 10,
+            "delay": 1,
+            "turns": 14,
+            "gold": 1600000000,
+            "vPoint": 1600
         }
     ],
     "BonusPurchase": [
